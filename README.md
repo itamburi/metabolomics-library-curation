@@ -24,7 +24,7 @@ Inside the unzipped folder:
 ![](assignments.png)
 
 
-2. Place your xlsx Compound Discoverer exports into the root directory  
+2. Place your xlsx Compound Discoverer exports into the root directory of the unzipped folder
 
 3. Open the script `01_match_libraries.R` and run the first block to convert xlsx to csv
 
