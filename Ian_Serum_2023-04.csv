@@ -1,0 +1,784 @@
+"seqname","seqdate","tissue","Name","Formula","ion.mode.seq","m.z","RT.seq","RT.library","RT.diff","mzCloud.Best.Match","mzCloud.Best.Match.Confidence","Annot..DeltaMass..ppm.","Calc..MW","CJ","Detected.in","confirmation","HMDB.ID"
+"ldlr_serum_apr2022","2023-04","Serum","(+/-)-C75","C14H22O4","Posi",255.15809,3.858,NA,NA,67.3,8.4,-3.72,254.15086,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","(-)-erythro-Anethole glycol 1-glucoside","C16H24O8","Posi",345.1554,2.24,NA,NA,57,23.1,1.28,344.14756,"CJ1175",NA,NA,"HMDB0033066"
+"ldlr_serum_apr2022","2023-04","Serum","(1-{[3,5-Bis(trifluoromethyl)phenyl]sulfonyl}piperidin-4-yl)(phenyl)methanone","C20H17F6NO3S","Posi",466.08513,8.602,NA,NA,50.2,22.5,-11.79,465.07785,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","(15Z)-9,12,13-Trihydroxy-15-octadecenoic acid","C18H34O5","Nega",329.23327,3.821,NA,NA,59.2,26.1,-0.23,330.24055,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","(2R,3R,4R)-2-Amino-4-hydroxy-3-methylpentanoic acid","C6H13NO3","Posi",148.09648,14.576,NA,NA,60.6,46.4,-2.42,147.08919,"CJ1180",NA,NA,"HMDB0029449"
+"ldlr_serum_apr2022","2023-04","Serum","(2S)-2-[(1S,2S,4aS,7S,8S,8aS)-7-Acetamido-1-hydroxy-4a,8-dimethyldecahydro-2-naphthalenyl]-N-(2-methoxybenzyl)propanamide","C25H38N2O4","Posi",431.29595,3.113,NA,NA,70.9,24.9,12.98,430.28874,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","(2S)-N2-[(2S)-1-amino-3-cyclohexyl-1-oxo-2-propanyl]-N1-isopropyl-N4-phenyl-1,2,4-piperazinetricarboxamide","C25H38N6O4","Nega",485.28111,1.892,NA,NA,59,7.9,-14.52,486.28839,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","(2S,5aS,8aR)-1-Methyl-6-(4-methylbenzyl)-2-[3-(4-morpholinyl)-3-oxopropyl]octahydropyrrolo[3,2-E][1,4]diazepin-5(2H)-one","C23H34N4O3","Posi",415.27796,2.453,NA,NA,53.5,22.8,18.17,414.27062,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","(3E,5S,8R,11E,13S,16R)-5,13-dihydroxy-8,16-dimethyl-1,9-dioxacyclohexadeca-3,11-diene-2,10-dione","C16H24O6","Posi",313.1633,3.22,NA,NA,69.7,8.5,-4.09,312.15601,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","(3R)-8-hydroxy-3-(4-hydroxyphenyl)-3,4-dihydro-1H-2-benzopyran-1-one","C15H12O4","Posi",257.07573,3.924,NA,NA,57.5,23.2,-19.93,256.06846,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","(3β,9ξ)-3,14-Dihydroxycarda-5,20(22)-dienolide","C23H32O4","Posi",373.23041,2.619,NA,NA,71.3,41.4,-18.65,372.22312,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","(4S)-4-[(3aS,4S,7aR)-4-Hydroxy-6-methyl-3-methylene-2-oxo-2,3,3a,4,7,7a-hexahydro-1-benzofuran-5-yl]pentyl acetate","C17H24O5","Posi",309.16878,2.387,NA,NA,68.5,39.4,-2.97,308.16146,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","(4aS,5R,6S,8aS)-5-[(3E)-5-methoxy-3-methyl-5-oxopent-3-en-1-yl]-5,6,8a-trimethyl-3,4,4a,5,6,7,8,8a-octahydronaphthalene-1-carboxylic acid","C21H32O4","Posi",349.23547,2.346,NA,NA,60.7,55.9,-5.9,348.22801,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","(5Z)-3-aminonon-5-enoic acid","C9H17NO2","Posi",172.13243,2.779,NA,NA,61.3,42.8,-4.53,171.12515,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","(R)-Ketamine","C13H16ClNO","Posi",238.09857,8.395,NA,NA,79.4,72.1,-3.16,237.09129,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","(S)-beta-Aminoisobutyric acid","C4H9NO2","Nega",102.05607,12.687,14.08,-1.393,86.1,9.3,0.21,103.06335,NA,"nega","STD","HMDB0002166"
+"ldlr_serum_apr2022","2023-04","Serum","(S)-beta-Aminoisobutyric acid","C4H9NO2","Posi",104.07011,12.915,14.08,-1.165,70.4,8.5,-4.74,103.06284,NA,"nega","STD","HMDB0002166"
+"ldlr_serum_apr2022","2023-04","Serum","(±)9-HpODE","C18H32O4","Nega",311.22173,8.618,NA,NA,79.6,54,-3.37,312.22901,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","(Â±)-Metalaxyl","C15H21NO4","Posi",280.15327,9.173,NA,NA,50.3,22.5,-3.8,279.146,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","1,10-Diamino-4,7-dioxadecane","C8H20N2O2","Posi",177.15862,13.978,NA,NA,53,22.7,-6.45,176.15134,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","1,3,4,10-Tetrahydro-9(2H)-acridinone","C13H13NO","Posi",200.1058,9.841,NA,NA,60.6,37.9,-6,199.09852,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","1,3-Benzodioxolylbutanamine (BDB)","C11H15NO2","Posi",194.11623,12.868,NA,NA,75.5,47.1,-6.89,193.10895,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","1,3-Diiminoisoindoline","C8H7N3","Nega",144.05706,6.972,NA,NA,55.9,7.8,2.37,145.06434,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","1,3-Dimethyluracil","C6H8N2O2","Posi",141.06561,11.879,10.4,1.479,84.7,9.2,-1.72,140.05834,"CJ0943","Posi","DDA","HMDB0002144"
+"ldlr_serum_apr2022","2023-04","Serum","1,3-Phenylenediamine","C6H8N2","Posi",109.07586,6.68,NA,NA,76.8,48.2,-1.91,108.06854,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","1,4-Dimethylpiperazine","C6H14N2","Posi",115.12216,10.233,NA,NA,52.7,22.7,-7.16,114.11488,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","1,5-Naphthalenediamine","C10H10N2","Posi",159.09133,3.157,9.37,-6.213,73.2,63,-2.19,158.08405,"CJ0944","Posi","DDA","HMDB0244231"
+"ldlr_serum_apr2022","2023-04","Serum","1,8-Diazabicyclo [5.4.0]undec-7-ene","C9H16N2","Posi",153.13775,8.441,NA,NA,61.5,8.1,-5.73,152.13048,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","1-(3,4-dichlorophenyl)-4-(4-methoxybenzylidene)-3-methyl-4,5-dihydro-1H-pyrazol-5-one","C18H14Cl2N2O2","Posi",361.04881,9.51,NA,NA,54.5,41.7,-4.73,360.04153,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","1-(4,5-dihydro-1H-imidazol-2-yl)-3,5-dimethyl-1H-pyrazole hydrobromide","C8H12N4","Posi",165.11328,5.125,NA,NA,68.6,8.4,-1.24,164.10599,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","1-(4,7-Dimethylpyrazolo[5,1-c][1,2,4]triazin-3-yl)ethan-1-one","C9H10N4O","Nega",189.07798,13.415,NA,NA,72,67,-1.08,190.08525,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","1-(4-Fluorophenyl)-3-(2-methyl-1H-benzo[d]imidazol-1-yl)pyrrolidine-2,5-dione","C18H14FN3O2","Posi",324.11411,14.788,NA,NA,65.6,43.5,-0.66,323.10679,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","1-(acetyloxy)-3-hydroxy-6,8a-dimethyl-7-oxo-3-(propan-2-yl)-1,2,3,3a,4,7,8,8a-octahydroazulen-4-yl 4-hydroxybenzoate","C24H30O7","Posi",448.24029,2.688,NA,NA,56.4,7.8,17.15,430.20653,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","1-Deoxy-D-glucitol","C6H14O5","Posi",167.09208,5.199,5.12,0.0789999999999997,50.9,44.6,4.63,166.08489,"CJ0957","Posi","DDA","HMDB0041500"
+"ldlr_serum_apr2022","2023-04","Serum","1-Isomangostin hydrate","C24H28O7","Posi",429.18943,2.405,NA,NA,54.3,22.9,-3.38,428.18206,"CJ1212",NA,NA,"HMDB0029984"
+"ldlr_serum_apr2022","2023-04","Serum","1-Linoleoyl glycerol","C21H38O4","Posi",355.28151,6.812,NA,NA,64.9,8.2,-7.84,354.27423,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","1-Methyl-3,6-(1H,2H)-pyridazinedione","C5H6N2O2","Nega",125.03602,20.381,NA,NA,53.6,43.7,2.92,126.0433,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","1-Methyladenine","C6H7N5","Nega",148.06312,14.162,NA,NA,58.2,60.6,1.7,149.0704,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","1-Methyladenine","C6H7N5","Posi",150.07759,13.907,NA,NA,84.3,67.6,1.13,149.07031,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","1-Methyladenosine","C11H15N5O4","Posi",282.11879,14.007,5.08,8.927,87.5,9.4,-3.18,281.11151,"CJ0007","Both","Sigma","HMDB0003331"
+"ldlr_serum_apr2022","2023-04","Serum","1-Methylguanine","C6H7N5O","Nega",164.05515,8.471,NA,NA,73.7,50.2,-15.97,165.06242,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","1-Methylguanine","C6H7N5O","Posi",166.07142,5.976,NA,NA,81.4,75,-5.57,165.06414,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","1-Methylhistidine","C7H11N3O2","Posi",170.09224,18.267,18.23,0.036999999999999,89.1,74.3,-0.99,169.08496,"CJ0008","Both","Sigma","HMDB0000001"
+"ldlr_serum_apr2022","2023-04","Serum","1-Methylinosine","C11H14N4O5","Nega",281.08883,6.256,5.88,0.376,77.4,31.8,-1.1,282.09611,"CJ0960","Nega","DDA","HMDB0002721"
+"ldlr_serum_apr2022","2023-04","Serum","1-Methylnicotinamide","C7H8N2O","Posi",137.07002,19.838,NA,NA,69.4,39.6,-6.74,136.06275,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","1-Pentanesulfenothioic acid","C5H12S2","Nega",135.03007,10.225,8.99,1.235,58.5,7.9,-5.12,136.03735,"CJ0961","Posi","DDA","HMDB0031160"
+"ldlr_serum_apr2022","2023-04","Serum","1-Pentanesulfenothioic acid","C5H12S2","Posi",137.0453,9.229,8.99,0.238999999999999,87.2,83.4,-0.12,136.03803,"CJ0961","Posi","DDA","HMDB0031160"
+"ldlr_serum_apr2022","2023-04","Serum","1-Phenyl-1H-pyrazolo[3,4-d]pyrimidin-4-amine","C11H9N5","Nega",210.07884,1.362,NA,NA,52.9,58.8,1.53,211.08612,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","1-Vinylimidazole","C5H6N2","Posi",95.05968,20.465,NA,NA,57,23.1,-8.02,94.05234,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","1-[(5-Amino-5-carboxypentyl)amino]-1-deoxyfructose","C12H24N2O7","Posi",309.16866,3.688,NA,NA,52.7,36.3,9.97,308.16142,"CJ1194",NA,NA,"HMDB0034879"
+"ldlr_serum_apr2022","2023-04","Serum","1-[2-(2,5-dimethyl-1H-pyrrol-1-yl)-4-nitrophenyl]-1H-imidazole","C15H14N4O2","Posi",283.11476,12.741,NA,NA,73.5,8.7,-14.84,282.10749,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","1-[2-Hydroxy-3-(phenylthio)propyl]piperidine-4-carboxamide","C15H22N2O2S","Posi",295.15065,3.099,NA,NA,50.9,22.5,12.53,294.14388,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","1-[6-(benzyloxy)-3-(tert-butyl)-2-hydroxyphenyl]ethan-1-one","C19H22O3","Nega",297.15315,1.941,NA,NA,52.2,58.6,11.84,298.16043,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","1-allyl-4,5-diphenyl-2-(2-thienyl)-1H-imidazole","C22H18N2S","Posi",343.12998,1.908,NA,NA,51.2,41.1,10.63,342.1227,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","1-methyl-N-(4-piperidinophenyl)-1H-imidazole-4-sulfonamide","C15H20N4O2S","Nega",319.12176,2.922,NA,NA,50.5,7.5,-5.2,320.12903,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","1-{[(2R,4S,5S)-5-{[(1R,9S)-6-Oxo-7,11-diazatricyclo[7.3.1.02,7]trideca-2,4-dien-11-yl]methyl}-1-azabicyclo[2.2.2]oct-2-yl]methyl}-3-phenylurea","C27H35N5O2","Nega",460.26976,7.976,NA,NA,56.1,7.8,-4.43,461.27703,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","1-{[3-(4-fluorophenyl)-1H-pyrazol-4-yl]methyl}-4-(2-methoxyphenyl)piperidine","C22H24FN3O","Nega",364.18056,2.787,NA,NA,50.5,43.3,-6.85,365.18784,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","10Z-Heptadecenoic acid","C17H32O2","Nega",267.23295,2.177,2.08,0.097,73.3,8.7,0,268.24023,"CJ0660","Nega","fatty acids","HMDB0060038"
+"ldlr_serum_apr2022","2023-04","Serum","10Z-Heptadecenoic acid","C17H32O2","Posi",269.24626,2.33,2.08,0.25,73.1,8.7,-4.56,268.23901,"CJ0660","Nega","fatty acids","HMDB0060038"
+"ldlr_serum_apr2022","2023-04","Serum","11(R)-HETE","C20H32O3","Posi",321.24088,2.364,2.4925,-0.1285,56.4,7.8,-5.67,320.23333,"CJ0946",NA,"DDA","HMDB0004682"
+"ldlr_serum_apr2022","2023-04","Serum","11-Dehydro thromboxane B2","C20H32O6","Posi",369.22455,2.622,NA,NA,73.1,26.3,-6.86,368.21736,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","11Z-Eicosenoic acid","C20H38O2","Nega",309.27975,2.133,2.04,0.093,81.7,9.1,-0.49,310.28703,"CJ0668","Nega","fatty acids","HMDB0002231"
+"ldlr_serum_apr2022","2023-04","Serum","12-Aminododecanoic acid","C12H25NO2","Posi",216.19472,2.694,NA,NA,64.1,23.8,-4.91,215.18747,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","12-oxo-PDA","C18H28O3","Posi",293.20992,2.993,3.033,-0.04,72.5,69.7,-3.92,292.2027,"CJ0949",NA,"DDA","HMDB0301804"
+"ldlr_serum_apr2022","2023-04","Serum","13-Docosenamide","C22H43NO","Posi",338.34026,2.335,2.27,0.0649999999999999,81.8,9.1,-4.4,337.33298,"CJ1066","Posi","DDA","HMDB0244507"
+"ldlr_serum_apr2022","2023-04","Serum","13-HODE","C18H32O3","Nega",295.22768,2.285,2.18,0.105,89.5,51.2,-0.62,296.23496,"CJ0649","Nega","fatty acids","HMDB0004667"
+"ldlr_serum_apr2022","2023-04","Serum","13-HODE","C18H32O3","Posi",297.24094,2.274,2.18,0.0939999999999999,70.1,48.2,-5.06,296.23365,"CJ0649","Nega","fatty acids","HMDB0004667"
+"ldlr_serum_apr2022","2023-04","Serum","13-L-Hydroperoxylinoleic acid","C18H32O4","Nega",311.22256,2.617,2.771,-0.154,76.5,64.1,-0.73,312.22983,"CJ0950","Nega","DDA","HMDB0003871"
+"ldlr_serum_apr2022","2023-04","Serum","13-L-Hydroperoxylinoleic acid","C18H32O4","Posi",313.23518,3.366,2.771,0.595,58.7,7.9,-6.2,312.22812,"CJ0950","Nega","DDA","HMDB0003871"
+"ldlr_serum_apr2022","2023-04","Serum","13-OxoODE","C18H30O3","Nega",293.21194,2.333,2.2506,0.0824000000000003,78.6,53.3,-0.96,294.21921,"CJ0951",NA,"DDA","HMDB0004668"
+"ldlr_serum_apr2022","2023-04","Serum","13-OxoODE","C18H30O3","Posi",295.22504,2.329,2.2506,0.0784000000000002,88,81,-5.68,294.21782,"CJ0951",NA,"DDA","HMDB0004668"
+"ldlr_serum_apr2022","2023-04","Serum","15-Keto-13,14-dihydroprostaglandin A2","C20H30O4","Nega",333.20715,2.867,2.76,0.107,95.7,9.8,0.05,334.21443,"CJ0953","Nega","DDA","HMDB0001244"
+"ldlr_serum_apr2022","2023-04","Serum","16-Hydroxyhexadecanoic acid","C16H32O3","Nega",271.2279,2.204,2.33,-0.126,80.2,9,0.13,272.23518,"CJ0658","Nega","fatty acids","HMDB0006294"
+"ldlr_serum_apr2022","2023-04","Serum","2',4'-Dihydroxyacetophenone","C8H8O3","Nega",151.04012,2.399,2.51,-0.111,58.6,7.9,0.36,152.0474,"CJ0014","Both","Sigma","HMDB0029659"
+"ldlr_serum_apr2022","2023-04","Serum","2'-Deoxyguanosine 5'-monophosphate","C10H14N5O7P","Posi",348.06864,14.933,14.52,0.413,80.9,9,-4.72,347.06145,"CJ0212","Both","Sigma","HMDB0001044"
+"ldlr_serum_apr2022","2023-04","Serum","2'-Deoxyguanosine 5'-monophosphate (dGMP)","C10H14N5O7P","Nega",346.05391,9.59,NA,NA,60.2,61.3,-5.48,347.06118,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","2'-Deoxyinosine","C10H12N4O4","Nega",251.0782,5.313,NA,NA,78.4,32.4,-1.49,252.08548,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","2'-Deoxyinosine","C10H12N4O4","Posi",253.09193,5.901,NA,NA,84.7,33.3,-4.69,252.08467,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","2,2'-Methylenebis(4-methyl-6-tert-butylphenol)","C23H32O2","Nega",339.23343,2.545,NA,NA,59.4,8,1.41,340.24071,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","2,2,6,6-Tetramethyl-1-piperidinol (TEMPO)","C9H19NO","Posi",158.15291,9.39,NA,NA,78.5,8.9,-6.56,157.14563,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","2,2,6,6-Tetramethyl-4-piperidinol","C9H19NO","Posi",158.1531,2.47,NA,NA,50.2,44.5,-5.5,157.1458,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","2,2-Dimethylsuccinic acid","C6H10O4","Nega",145.05232,3.722,NA,NA,61.7,8.1,11.57,146.0596,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","2,4,5-Trimethylaniline","C9H13N","Posi",136.11164,10.346,NA,NA,68.6,58,-2.89,135.10441,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","2,4-Diaminotoluene","C7H10N2","Posi",123.09118,11.302,NA,NA,68.3,24.2,-4.09,122.0839,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","2,4-Dimethylbenzaldehyde","C9H10O","Posi",135.08024,2.889,2.39,0.499,86.5,70.8,-1.49,134.07296,"CJ0967","Posi","DDA","HMDB0032142"
+"ldlr_serum_apr2022","2023-04","Serum","2,5,6,8-Tetramethyl-4,5,6,7,8,9-hexahydropyrimido[5',4' 5,6]pyrido[3,4-d][1,3]oxazole-4,7,9-trione","C12H12N4O4","Posi",277.08834,13.027,NA,NA,52.9,41.4,-17.36,276.08106,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","2,5-Dihydro-2,4,5-trimethyloxazole","C6H11NO","Posi",114.09079,2.528,3.744,-1.216,52.7,41.4,-5.07,113.08349,"CJ0968","Posi","DDA","HMDB0031199"
+"ldlr_serum_apr2022","2023-04","Serum","2,5-Dimethylpyrazine","C6H8N2","Posi",109.07571,1.758,9.04,-7.282,86.8,54.1,-3.05,108.06842,"CJ0018","Posi","Sigma","HMDB0035289"
+"ldlr_serum_apr2022","2023-04","Serum","2,6-Dimethylpyrazine","C6H8N2","Posi",109.0754,1.242,NA,NA,86.6,54,-5.07,108.0682,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","2,6-di(2-furyl)-3-propyltetrahydropyridin-4(1H)-one hydrochloride","C16H19NO3","Posi",274.14977,14.831,NA,NA,54.5,22.9,26.47,273.14372,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","2-(2,3-dihydro-1H-inden-1-yliden)hydrazine-1-carboxamide","C10H11N3O","Posi",190.09637,10.914,NA,NA,54.6,54.3,-5.9,189.0891,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","2-(2H-Benzotriazol-2-yl)-4,6-bis(1-methyl-1-phenylethyl)phenol","C30H29N3O","Posi",448.23183,2.661,NA,NA,68.5,8.4,-14.63,447.22452,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","2-(3,4-dimethoxyphenyl)-5,6,8-trihydroxy-3,7-dimethoxy-4h-chromen-4-one isomer","C19H18O9","Posi",391.09956,12.797,NA,NA,70.7,49.1,-8.34,390.09183,"CJ1221",NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","2-(3-thienylcarbonyl)-3-(3,4,5-trimethoxyphenyl)acrylonitrile","C17H15NO4S","Posi",330.08077,13.902,NA,NA,64.7,43.3,4,329.0735,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","2-(4-Methyl-3-cyclohexen-1-yl)-2-propanyl 6-O-(6-deoxy-α-L-mannopyranosyl)-β-D-glucopyranoside","C22H38O10","Nega",461.24008,9.27,NA,NA,74.9,66.8,1.86,462.24736,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","2-(4-methyl-1,3-thiazol-2-yl)benzo[b]thiophen-3-ol","C12H9NOS2","Posi",248.01895,12.334,NA,NA,53.2,7.7,-3.33,247.01173,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","2-(5-chloro-2-methoxyphenyl)-2,3-dihydro-1H-pyrrolo[3,4-c]pyridine-1,3-dione","C14H9ClN2O3","Posi",289.03931,10.142,NA,NA,63.7,46.9,6.48,288.03204,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","2-(Cyclohexyloxy)-5-{5-[(2S)-1-(tetrahydro-2H-pyran-4-yl)-2-pyrrolidinyl]-1,2,4-oxadiazol-3-yl}pyridine","C22H30N4O3","Posi",399.23299,2.374,NA,NA,61.4,8.1,-15.13,398.22577,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","2-(acetylamino)-3-(1H-indol-3-yl)propanoic acid","C13H14N2O3","Posi",247.10613,4.51,NA,NA,76.7,48.7,-6.37,246.09887,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","2-(acetyloxy)-3-amino-1-[1,2-di(acetyloxy)ethyl]-3-oxopropyl acetate","C13H19NO9","Posi",334.11107,8.232,NA,NA,60.8,8,-6.5,333.10382,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","2-({[2-(1H-benzimidazol-2-yl)phenyl]imino}methyl)-4,6-dichlorophenol","C20H13Cl2N3O","Posi",382.0494,11.529,NA,NA,55.4,41.8,-3.8,381.04212,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","2-Acetamidophenol","C8H9NO2","Posi",152.07001,1.924,NA,NA,74.4,45.6,-3.93,151.06274,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","2-Acetoxybenzonitrile","C9H7NO2","Posi",162.05391,5.908,NA,NA,71.9,25.5,-6.5,161.04663,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","2-Amino-4-cresol","C7H9NO","Posi",124.07507,15.26,NA,NA,51.4,22.6,-5.01,123.0678,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","2-Amino-4-methylpyrimidine","C5H7N3","Posi",110.07105,3.744,NA,NA,91.3,60.6,-2.07,109.06377,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","2-Amino-6-({[(2-chlorobenzyl)oxy]carbonyl}amino)hexanoic acid","C14H19ClN2O4","Posi",315.10884,9.465,NA,NA,75.4,8.8,-5.62,314.10157,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","2-Amino-6-methylmercaptopurine","C6H7N5S","Nega",180.03353,8.642,NA,NA,52.9,7.6,-7.81,181.0408,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","2-Aminobenzoic acid","C7H7NO2","Posi",138.05412,12.384,NA,NA,85,80.2,-6.07,137.04685,"CJ1376",NA,NA,"HMDB0001123"
+"ldlr_serum_apr2022","2023-04","Serum","2-Aminoisobutyric acid","C4H9NO2","Nega",102.0563,12.564,13.11,-0.545999999999999,86.6,9.3,2.43,103.06358,"CJ0022","Both","Sigma","HMDB0001906"
+"ldlr_serum_apr2022","2023-04","Serum","2-Aminoisobutyric acid","C4H9NO2","Posi",104.07023,12.468,13.11,-0.641999999999999,91.9,9.6,-3.61,103.06296,"CJ0022","Both","Sigma","HMDB0001906"
+"ldlr_serum_apr2022","2023-04","Serum","2-Aminonicotinic acid","C6H6N2O2","Nega",137.03606,20.365,NA,NA,52.6,7.6,2.99,138.04334,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","2-Aminonicotinic acid","C6H6N2O2","Posi",139.04933,4.088,NA,NA,76.3,48.1,-5.96,138.0421,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","2-Aminooctanedioic acid","C8H15NO4","Nega",188.09324,9.146,NA,NA,62.2,62,2.16,189.10052,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","2-Dodecylbenzenesulfonic acid","C18H30O3S","Nega",325.18375,3.285,1.86,1.425,85.7,74.9,-1.65,326.19103,"CJ0970","Nega","DDA","HMDB0031031"
+"ldlr_serum_apr2022","2023-04","Serum","2-Ethyl-2-oxazoline","C5H9NO","Posi",100.07526,16.658,NA,NA,70.3,8.5,-4.72,99.06795,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","2-Furoic acid","C5H4O3","Nega",111.00883,16.803,NA,NA,51.9,43.4,0.57,112.01611,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","2-Hydroxy-2-methyl-3-buten-1-yl beta-D-glucopyranoside","C11H20O7","Nega",263.11281,14.579,NA,NA,51.6,7.6,-3.1,264.12008,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","2-Hydroxy-3-methylpentanoic acid","C6H12O3","Nega",131.0714,3.65,3.51,0.14,66.9,26.8,0.28,132.07868,"CJ0972","Nega","DDA","HMDB0000317"
+"ldlr_serum_apr2022","2023-04","Serum","2-Hydroxy-4-(4-hydroxyphenyl)butanoic acid","C10H12O4","Nega",195.06839,8.122,NA,NA,59.9,61.2,10.75,196.07567,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","2-Hydroxybenzaldehyde","C7H6O2","Nega",121.02961,2.8,2.51,0.29,77.3,8.9,0.92,122.03689,"CJ0055","Nega","Sigma","HMDB0034170"
+"ldlr_serum_apr2022","2023-04","Serum","2-Hydroxybutyric acid","C4H8O3","Nega",103.04024,4.887,4.62,0.266999999999999,80.8,48.8,1.7,104.04752,"CJ0026","Nega","Sigma","HMDB0000008"
+"ldlr_serum_apr2022","2023-04","Serum","2-Hydroxyhippuric acid","C9H9NO4","Nega",194.04611,5.581,NA,NA,89.3,51.1,1.19,195.05339,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","2-Hydroxymyristic acid","C14H28O3","Nega",243.19659,2.572,2.46,0.112,85.3,9.3,0.08,244.20387,"CJ0977","Nega","DDA","HMDB0002261"
+"ldlr_serum_apr2022","2023-04","Serum","2-Hydroxypyridine","C5H5NO","Posi",96.04425,3.15,3.64,-0.49,57.3,7.9,-3.12,95.03682,"CJ0028","Both","Sigma","HMDB0013751"
+"ldlr_serum_apr2022","2023-04","Serum","2-Hydroxyquinoline","C9H7NO","Posi",146.05989,11.835,NA,NA,84.3,58.8,-0.98,145.05262,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","2-Indolecarboxylic acid","C9H7NO2","Nega",160.04057,8.896,8.49,0.406000000000001,74.4,29.9,1.04,161.04785,"CJ0978","Nega","DDA","HMDB0002285"
+"ldlr_serum_apr2022","2023-04","Serum","2-Indolecarboxylic acid","C9H7NO2","Posi",162.05389,8.899,8.49,0.408999999999999,80,72.9,-6.62,161.04661,"CJ0978","Nega","DDA","HMDB0002285"
+"ldlr_serum_apr2022","2023-04","Serum","2-Isopropylaniline","C9H13N","Posi",136.11178,1.048,NA,NA,71.6,45.1,-2.24,135.1045,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","2-Isopropylmalic acid","C7H12O5","Nega",175.06222,12.819,13.52066667,-0.70166667,54.4,64,5.81,176.0695,"CJ1104",NA,"DDA","HMDB0000402"
+"ldlr_serum_apr2022","2023-04","Serum","2-Methylbutyrylglycine","C7H13NO3","Nega",158.08239,4.206,3.73,0.476,87,50.5,0.79,159.08967,"CJ0980","Nega","DDA","HMDB0000339"
+"ldlr_serum_apr2022","2023-04","Serum","2-Methylglutaric acid","C6H10O4","Nega",145.05226,18.168,12.05,6.118,53.1,7.7,11.12,146.05953,"CJ0033","Nega","Sigma","HMDB0000422"
+"ldlr_serum_apr2022","2023-04","Serum","2-Methylhippuric acid","C10H11NO3","Nega",192.06666,2.992,3.4785,-0.4865,91.9,9.6,0.21,193.07393,"CJ0981",NA,"DDA","HMDB0011723"
+"ldlr_serum_apr2022","2023-04","Serum","2-Methylhippuric acid","C10H11NO3","Posi",194.08032,3.955,3.4785,0.4765,91.8,9.6,-4.11,193.0731,"CJ0981",NA,"DDA","HMDB0011723"
+"ldlr_serum_apr2022","2023-04","Serum","2-Methylpropanal","C4H8O","Posi",73.06471,1.141,2.55,-1.409,66.3,8.3,-2.81,72.05731,"CJ0035","Both","Sigma","HMDB0031243"
+"ldlr_serum_apr2022","2023-04","Serum","2-Naphthalenesulfonic acid","C10H8O3S","Nega",207.01214,2.364,2.07,0.294,94.1,9.7,0.01,208.01942,"CJ0982","Nega","DDA","HMDB0255446"
+"ldlr_serum_apr2022","2023-04","Serum","2-Oxindole","C8H7NO","Posi",134.05979,7.295,NA,NA,82.5,56.3,-2.01,133.0525,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","2-Phosphoglyceric acid","C3H7O7P","Nega",184.98569,15.177,14.88,0.296999999999999,73.7,8.7,0.16,185.99297,"CJ0037","Both","Sigma","HMDB0000362"
+"ldlr_serum_apr2022","2023-04","Serum","2-Piperidinone","C5H9NO","Posi",100.07523,13.954,13.7,0.254000000000001,79.4,30.1,-4.68,99.06795,"CJ0983","Posi","DDA","HMDB0011749"
+"ldlr_serum_apr2022","2023-04","Serum","2-Pyrocatechuic acid","C7H6O4","Nega",153.01934,2.533,2.4,0.133,82.4,34.9,0.02,154.02661,"CJ0013","Nega","Sigma","HMDB0000397"
+"ldlr_serum_apr2022","2023-04","Serum","2-[(1-ethyl-1H-1,2,3,4-tetraazol-5-yl)sulfanyl]-1-(4-phenylpiperazino)-1-ethanone","C15H20N6OS","Nega",331.13082,3.785,NA,NA,60.1,8,-11.55,332.13809,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","2-[(1S,2S,4aR,8aS)-1-hydroxy-4a-methyl-8-methylidene-decahydronaphthalen-2-yl]prop-2-enoic acid","C15H22O3","Posi",251.16081,6.289,NA,NA,50.2,22.5,-11.77,250.15395,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","2-[2-(3,4-dichlorophenyl)acetyl]-N-propylhydrazine-1-carbothioamide","C12H15Cl2N3OS","Posi",320.03448,2.38,NA,NA,71.9,8.6,-12.79,319.02721,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","2-[3-(trifluoromethyl)-1H-pyrazol-1-yl]-4H-chromen-4-one","C13H7F3N2O2","Posi",281.04971,8.333,NA,NA,63.8,8.2,-12.6,280.04243,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","2-aminophenol","C6H7NO","Nega",108.04543,2.32,2.6,-0.28,83.9,9.2,-0.51,109.05271,"CJ0023","Both","Sigma",NA
+"ldlr_serum_apr2022","2023-04","Serum","2-aminophenol","C6H7NO","Posi",110.05975,1.38,2.6,-1.22,77.9,8.9,-2.91,109.05245,"CJ0023","Both","Sigma",NA
+"ldlr_serum_apr2022","2023-04","Serum","2-chloro-6-(1,4-thiazinan-4-yl)benzonitrile","C11H11ClN2S","Posi",239.03936,8.125,NA,NA,74,8.7,-4.48,238.03208,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","2-fluoro-6-(4-methoxyphenoxy)benzonitrile","C14H10FNO2","Posi",244.07824,10.746,10.52,0.226000000000001,63.4,8.2,5.79,243.07096,"CJ0971","Posi","DDA",NA
+"ldlr_serum_apr2022","2023-04","Serum","2-methyl-1,2-dihydrophthalazin-1-one","C9H8N2O","Posi",161.06964,8.468,NA,NA,56.7,42,-8.12,160.06236,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","2-phenyl-4H-furo[2,3-h]chromen-4-one","C17H10O3","Posi",263.07213,12.787,NA,NA,54.8,41.7,7.1,262.06485,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","2-{[(1-methyl-1H-pyrazol-5-yl)amino]methylene}malononitrile","C8H7N5","Nega",172.06322,8.042,NA,NA,60.3,65.1,2.01,173.07049,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","2-{[4-(4-chlorophenoxy)anilino]methyl}isoindoline-1,3-dione","C21H15ClN2O3","Posi",379.08328,14.876,NA,NA,65.4,8.3,-2.99,378.07599,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","25P-NBOMe","C21H29NO3","Posi",344.21564,2.793,NA,NA,52.7,7.6,-18.82,343.20828,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","3,3-Dimethylglutaric acid","C7H12O4","Nega",159.06795,18.294,NA,NA,74.8,8.7,10.4,160.07522,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","3,4,5-trihydroxy-6-methyloxan-2-yl 2-(methylamino)benzoate","C14H19NO6","Posi",298.12507,12.771,NA,NA,66.1,8.3,-11.59,297.11779,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","3,4,5-trihydroxycyclohex-1-ene-1-carboxylic acid","C7H10O5","Nega",173.04516,2.638,NA,NA,57.7,44.9,-2.21,174.05244,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","3,4-Dihydroxybenzeneacetic acid","C8H8O4","Nega",167.03505,4.107,2.71,1.397,55.3,53,0.43,168.04233,"CJ0045","Both","Sigma","HMDB0001336"
+"ldlr_serum_apr2022","2023-04","Serum","3,4-Dihydroxybenzeneacetic acid","C8H8O4","Nega",167.03505,4.107,13.684,-9.577,55.3,53,0.43,168.04233,"CJ1058","Nega","DDA","HMDB0001336"
+"ldlr_serum_apr2022","2023-04","Serum","3,4-Dihydroxyhydrocinnamic acid","C9H10O4","Nega",181.05093,3.334,3.985,-0.651,85.3,67,1.65,182.05821,"CJ1059",NA,"DDA","HMDB0000423"
+"ldlr_serum_apr2022","2023-04","Serum","3-(1-cyano-1,2-dihydroisoquinolin-2-yl)-3-oxopropyl propionate","C16H16N2O3","Nega",283.10884,2.908,2.35,0.558,56.5,53.2,0.09,284.11612,"CJ0984","Nega","DDA",NA
+"ldlr_serum_apr2022","2023-04","Serum","3-Amino-2-piperidone","C5H10N2O","Posi",115.08597,9.256,NA,NA,81.2,9.1,-2.94,114.07898,"CJ1270",NA,NA,"HMDB0000323"
+"ldlr_serum_apr2022","2023-04","Serum","3-Aminopyrrolidine","C4H10N2","Posi",87.09151,12.554,NA,NA,86.8,54,-2.38,86.08419,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","3-Aminosalicylic acid","C7H7NO3","Nega",152.03574,3.139,NA,NA,86.4,9.3,2.79,153.04302,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","3-Aminosalicylic acid","C7H7NO3","Posi",154.04932,4.507,NA,NA,75.5,47.4,-3.58,153.04205,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","3-Furoic acid","C5H4O3","Nega",111.00906,12.957,14.37,-1.413,74,29.6,2.6,112.01634,"CJ0987","Nega","DDA","HMDB0000444"
+"ldlr_serum_apr2022","2023-04","Serum","3-Hydroxy-2-methylpyridine","C6H7NO","Nega",108.04431,2.306,NA,NA,83.9,9.2,-10.78,109.05159,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","3-Hydroxy-2-methylpyridine","C6H7NO","Posi",110.05948,1.055,NA,NA,69.7,8.5,-5.14,109.0522,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","3-Hydroxyanthranilic acid","C7H7NO3","Posi",154.0493,3.614,7.69,-4.076,83.3,32.5,-3.39,153.04207,"CJ0054","Both","Sigma","HMDB0001476"
+"ldlr_serum_apr2022","2023-04","Serum","3-Hydroxybenzoic acid","C7H6O3","Nega",137.0245,2.664,3.8,-1.136,82.1,34.7,0.63,138.03178,"CJ0056","Nega","Sigma","HMDB0002466"
+"ldlr_serum_apr2022","2023-04","Serum","3-Hydroxyhippuric acid","C9H9NO4","Nega",194.04614,4.442,3.431666667,1.010333333,87.4,50.6,1.35,195.05342,"CJ1092",NA,"DDA","HMDB0006116"
+"ldlr_serum_apr2022","2023-04","Serum","3-Hydroxypyridine","C5H5NO","Posi",96.04394,7.547,NA,NA,81.5,9.1,-4.61,95.03668,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","3-Indoxyl sulphate","C8H7NO4S","Nega",212.00239,3.545,NA,NA,73.2,49.8,0.43,213.00967,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","3-Isopropylmalic acid","C7H12O5","Nega",175.06287,3.54,NA,NA,61.8,8.1,9.49,176.07014,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","3-Ketosphingosine","C18H35NO2","Posi",298.27245,2.396,2.32,0.0760000000000001,83.6,77.7,-5.25,297.26522,"CJ0988","Posi","DDA","HMDB0245914"
+"ldlr_serum_apr2022","2023-04","Serum","3-Methoxy-4-hydroxyphenylethyleneglycol sulfate","C9H12O7S","Nega",263.02301,2.388,2.35,0.0379999999999998,82.4,67,-0.34,264.03028,"CJ0989","Nega","DDA","HMDB0000559"
+"ldlr_serum_apr2022","2023-04","Serum","3-Methyl-1-phenyl-1H-pyrazol-5-amine","C10H11N3","Posi",174.1023,3.669,NA,NA,55.1,36.8,-2.35,173.09489,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","3-Methyladipic acid","C7H12O4","Nega",159.06748,12.656,12.34,0.316000000000001,79.8,54.1,7.48,160.07476,"CJ0990","Nega","DDA","HMDB0000555"
+"ldlr_serum_apr2022","2023-04","Serum","3-Methyladipic acid","C7H12O4","Posi",161.08171,12.596,12.34,0.256,62,65.6,5.14,160.07438,"CJ0990","Nega","DDA","HMDB0000555"
+"ldlr_serum_apr2022","2023-04","Serum","3-Methylcrotonylglycine","C7H11NO3","Nega",156.06687,4.006,4.256,-0.25,84.3,70.9,1.61,157.07415,"CJ1123",NA,"DDA","HMDB0000459"
+"ldlr_serum_apr2022","2023-04","Serum","3-Methylcrotonylglycine","C7H11NO3","Posi",158.08086,2.801,4.256,-1.455,78.4,8.9,0.95,157.07404,"CJ1123",NA,"DDA","HMDB0000459"
+"ldlr_serum_apr2022","2023-04","Serum","3-Methylhistidine","C7H11N3O2","Posi",170.09167,15.214,14.26,0.954000000000001,89.9,75.4,-4.34,169.08439,"CJ0070","Both","Sigma","HMDB0000479"
+"ldlr_serum_apr2022","2023-04","Serum","3-Methyloxindole","C9H9NO","Posi",148.07544,1.519,2.57,-1.051,69.7,58.3,-1.67,147.06817,"CJ0064","Both","Sigma","HMDB0304943"
+"ldlr_serum_apr2022","2023-04","Serum","3-Methylpyridine","C6H7N","Posi",94.06456,16.725,NA,NA,75.8,27.9,-5.96,93.05729,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","3-Methyluric acid","C6H6N4O3","Nega",181.0363,9.49,NA,NA,77.1,31.5,-2.29,182.04357,"CJ1290",NA,NA,"HMDB0001970"
+"ldlr_serum_apr2022","2023-04","Serum","3-Oxooctadecanoic acid","C18H34O3","Nega",297.24345,2.356,2.15,0.206,52.2,43.6,-0.23,298.25073,"CJ0993","Nega","DDA","HMDB0010736"
+"ldlr_serum_apr2022","2023-04","Serum","3-Pyridinol","C5H5NO","Posi",96.04379,1.071,NA,NA,85.4,9.3,-6.2,95.03652,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","3-[(1R,9S)-11-(1-Methyl-4-piperidinyl)-6-oxo-7,11-diazatricyclo[7.3.1.02,7]trideca-2,4-dien-5-yl]benzonitrile","C24H28N4O","Posi",389.22669,12.968,NA,NA,50.4,7.5,-17.78,388.21941,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","3-[(3-chloro-4-hydroxy-5-methylanilino)methylidene]pentane-2,4-dione","C13H14ClNO3","Posi",268.07235,11.996,NA,NA,52.7,41.4,-4.31,267.06507,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","3-[(benzyloxy)carbonyl]-2-oxoimidazolidine-4-carboxylic acid hydrate","C12H12N2O5","Posi",265.07977,5.979,NA,NA,54.2,7.7,-8.04,264.0725,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","3-[4-(tert-butyl)phenyl]-4-(3-methoxypropyl)-4,5-dihydro-1H-1,2,4-triazole-5-thione","C16H23N3OS","Posi",306.16622,3.726,NA,NA,63.5,23.8,9.25,305.15901,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","3-allyl-2-[(4-chlorobenzyl)sulfanyl]-5,6,7,8-tetrahydro[1]benzothieno[2,3-d]pyrimidin-4(3H)-imine","C20H20ClN3S2","Posi",402.09228,8.327,NA,NA,60.2,8,16,401.08513,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","3-amino-1H-pyrazolo[4,3-c]pyridine-4,6-diol","C6H6N4O2","Nega",165.04034,14.162,NA,NA,53.8,43.7,-8.81,166.04761,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","3-hydroxydodec-2-enedioic acid","C12H20O5","Nega",243.1238,11.55,11.94671429,-0.396714289999998,72.4,67,0,244.13107,"CJ1000",NA,"DDA","HMDB0340673"
+"ldlr_serum_apr2022","2023-04","Serum","3-hydroxyquinuclidine-3-carbonitrile hydrochloride","C8H12N2O","Posi",153.10122,10.225,NA,NA,65.4,8.3,-6.9,152.09391,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","3-methyl-5-(5-methyl-6-phenyl-1,2,3,6-tetrahydropyridin-2-yl)-2-phenylpyridine","C24H24N2","Posi",341.20404,2.351,NA,NA,67.1,39.1,8.28,340.19677,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","3-methyl-5-oxo-5-(4-toluidino)pentanoic acid","C13H17NO3","Posi",236.12608,14.66,NA,NA,71.8,8.6,-12.29,235.11795,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","3-tert-Butyladipic acid","C10H18O4","Nega",201.11334,2.552,NA,NA,62,61.9,0.52,202.12061,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","4,7-Dioxoheptanoic acid","C7H10O4","Posi",159.06634,5.835,NA,NA,57.5,64.3,7.1,158.05903,"CJ1494",NA,NA,"HMDB0246616"
+"ldlr_serum_apr2022","2023-04","Serum","4,7-dimethylpyrazolo[5,1-c][1,2,4]triazine-3-carbonitrile","C8H7N5","Posi",174.07719,5.886,3.32,2.566,59.5,8,-1.73,173.06985,"CJ0997","Posi","DDA",NA
+"ldlr_serum_apr2022","2023-04","Serum","4-(1,1,3,3-Tetramethylbutyl)-phenol","C14H22O","Nega",205.1597,1.697,2.26,-0.563,74,8.7,-0.43,206.16698,"CJ0995","Nega","DDA","HMDB0013825"
+"ldlr_serum_apr2022","2023-04","Serum","4-(1H-1,2,4-triazol-1-yl)aniline","C8H8N4","Posi",161.08197,5.989,NA,NA,73.8,70.7,-1.57,160.07464,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","4-(2,3-dihydro-1,4-benzodioxin-6-yl)butanoic acid","C12H14O4","Posi",223.0958,1.112,NA,NA,60.3,42.6,-2.85,222.08858,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","4-(2-Aminophenyl)-2,4-dioxobutanoic acid","C10H9NO4","Posi",208.05905,2.522,NA,NA,53.1,7.7,-6.68,207.05177,"CJ1294",NA,NA,"HMDB0000978"
+"ldlr_serum_apr2022","2023-04","Serum","4-(2-chloro-6-fluorobenzyl)-3,5-dimethyl-4-prop-2-ynyl-4H-pyrazole","C15H14ClFN2","Posi",277.08869,13.166,NA,NA,50.4,41,-5.57,276.08142,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","4-(diphenylphosphoryloxyamino)benzonitrile isomer","C19H15N2O2P","Posi",335.09369,14.118,NA,NA,78.2,8.9,-2.11,334.08641,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","4-Acetamidobenzaldehyde","C9H9NO2","Posi",164.0704,8.84,NA,NA,85.6,69.4,-1.29,163.06312,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","4-Acetamidobenzoic acid","C9H9NO3","Nega",178.05083,5.213,NA,NA,82,49.1,-0.74,179.05811,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","4-Aminohippuric acid","C9H10N2O3","Nega",193.06205,6.123,5.58,0.543,92.1,55.8,0.94,194.06932,"CJ0998","Posi","DDA","HMDB0001867"
+"ldlr_serum_apr2022","2023-04","Serum","4-Dodecylbenzenesulfonic acid","C18H30O3S","Nega",325.18371,6.481,NA,NA,87.4,76.9,-1.77,326.19099,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","4-Hydroxy-6-methyl-2-pyrone","C6H6O3","Nega",125.02457,12.908,NA,NA,71.6,8.6,1.19,126.03184,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","4-Hydroxybenzaldehyde","C7H6O2","Nega",121.0297,8.381,2.6,5.781,78.3,8.9,1.65,122.03698,"CJ0079","Both","Sigma","HMDB0011718"
+"ldlr_serum_apr2022","2023-04","Serum","4-Hydroxybenzaldehyde","C7H6O2","Posi",123.04282,11.767,2.6,9.167,73.3,26.4,-10.01,122.03556,"CJ0079","Both","Sigma","HMDB0011718"
+"ldlr_serum_apr2022","2023-04","Serum","4-Hydroxybenzotriazole","C6H5N3O","Posi",136.05054,5.565,NA,NA,59.7,8,-0.8,135.04315,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","4-Hydroxyindole","C8H7NO","Posi",134.05922,8.253,NA,NA,86.7,62,-5.78,133.05199,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","4-Hydroxyproline","C5H9NO3","Nega",130.05119,14.142,13.88,0.261999999999999,51.5,43.4,1.74,131.05847,"CJ0568","Both","Sigma","HMDB0000725"
+"ldlr_serum_apr2022","2023-04","Serum","4-Hydroxyproline","C5H9NO3","Posi",132.06528,14.13,13.88,0.25,89.9,9.5,-1.89,131.058,"CJ0568","Both","Sigma","HMDB0000725"
+"ldlr_serum_apr2022","2023-04","Serum","4-Methylbenzotriazole","C7H7N3","Nega",132.0571,6.776,NA,NA,55.6,43.9,2.82,133.06437,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","4-Methylphenol","C7H8O","Nega",107.05026,5.645,NA,NA,93.7,52.4,0.19,108.05754,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","4-Morpholinepropanesulfonic acid","C7H15NO4S","Posi",210.0755,4.017,NA,NA,82.6,76.7,-19.66,209.06807,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","4-Nitroaniline","C6H6N2O2","Nega",137.03599,2.538,NA,NA,84.2,9.2,2.48,138.04327,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","4-Oxoproline","C5H7NO3","Nega",128.03514,12.059,9.67,2.389,68.3,8.4,-1.35,129.04242,"CJ0461","Both","Sigma","HMDB0304793"
+"ldlr_serum_apr2022","2023-04","Serum","4-Oxoproline","C5H7NO3","Posi",130.04947,10.096,9.67,0.426,70.2,8.5,-3.14,129.04219,"CJ0461","Both","Sigma","HMDB0304793"
+"ldlr_serum_apr2022","2023-04","Serum","4-Piperidone","C5H9NO","Posi",100.0754,3.13,NA,NA,76,8.8,-3.13,99.0681,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","4-Pyridoxic acid","C8H9NO4","Nega",182.04574,2.348,2.26,0.0880000000000001,93.6,58.9,-0.77,183.05302,"CJ0084","Both","Sigma","HMDB0000017"
+"ldlr_serum_apr2022","2023-04","Serum","4-Pyridoxic acid","C8H9NO4","Posi",184.05977,2.296,2.26,0.036,92.7,83.3,-3.58,183.0525,"CJ0084","Both","Sigma","HMDB0000017"
+"ldlr_serum_apr2022","2023-04","Serum","4-Trimethylammoniobutanoic acid","C7H15NO2","Posi",146.11659,15.281,14.53,0.751000000000001,91.3,9.6,-6.64,145.10932,"CJ0205","Both","Sigma","HMDB0001161"
+"ldlr_serum_apr2022","2023-04","Serum","4-Trimethylammoniobutanoic acid","C7H15NO2","Posi",146.11659,15.281,NA,NA,91.3,9.6,-6.64,145.10932,"CJ1545",NA,NA,"HMDB0001161"
+"ldlr_serum_apr2022","2023-04","Serum","4-[(Dimethylamino)methylidene]-1-phenyl-3-(trifluoromethyl)-4,5-dihydro-1H-pyrazol-5-one","C13H12F3N3O","Posi",284.10129,7.612,NA,NA,52.8,44.9,2.71,283.09401,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","4-[1-(dimethylamino)ethylidene]-2-phenyl-1,3-oxazol-5(4H)-one","C13H14N2O2","Posi",231.11119,3.665,NA,NA,55.4,54.5,-7.27,230.10385,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","4-[4-(1-phenyl-1H-1,2,4-triazol-5-yl)-1,3-thiazol-2-yl]pyridine","C16H11N5S","Posi",306.07991,10.451,NA,NA,74.6,46.9,-2.92,305.07263,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","4-[5-(4-chloro-2-nitrophenyl)-2-furyl]-2,6-dimethyl-1,4-dihydropyridine-3,5-dicarbonitrile isomer","C19H13ClN4O3","Posi",381.07182,14.713,NA,NA,58,7.9,-8.09,380.06454,"CJ1298",NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","4-chloro-1H-indazol-3-amine","C7H6ClN3","Nega",166.01543,3.857,NA,NA,52.3,43.5,-13.9,167.0227,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","4-methyl-5-oxo-2-pentyl-2,5-dihydrofuran-3-carboxylic acid","C11H16O4","Posi",213.11294,5.805,NA,NA,65.9,8.3,3.06,212.10551,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","4-piperidinecarboxamide isomer","C6H12N2O","Posi",129.10202,8.012,NA,NA,53.9,22.8,-1.71,128.09474,"CJ1306",NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","4-{[2-(4-fluorophenyl)-2-oxoethyl]amino}-4-oxobutanoic acid","C12H12FNO4","Nega",252.07226,13.282,NA,NA,53.2,25.5,17.8,253.07954,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","4-{[5-(7-hydroxy-5,5,8a-trimethyl-2-methylidene-decahydronaphthalen-1-yl)-3-methylpentyl]oxy}-4-oxobutanoic acid","C24H40O5","Posi",409.28952,2.431,NA,NA,57.8,37.3,-12.97,408.28228,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","5'-Deoxyadenosine","C10H13N5O3","Posi",252.1085,3.345,4.54,-1.195,51.7,36.1,-2.47,251.10122,"CJ0089","Both","Sigma","HMDB0001983"
+"ldlr_serum_apr2022","2023-04","Serum","5'-Methylthioadenosine","C11H15N5O3S","Posi",298.09558,3.781,3.31,0.471,85.1,33.5,-4.33,297.08827,"CJ0396","Posi","Sigma","HMDB0001173"
+"ldlr_serum_apr2022","2023-04","Serum","5,5-dimethyl-3-morpholinocyclohex-2-en-1-one","C12H19NO2","Posi",210.14763,11.236,NA,NA,67.6,24.2,-5.85,209.14036,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","5,6,7,8-Tetrahydrobenzo[4,5]thieno[2,3-d]pyrimidin-4-amine","C10H11N3S","Posi",206.07275,2.808,NA,NA,50.8,62.3,-9.25,205.06547,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","5,6-Dihydrouridine","C9H14N2O6","Nega",245.07789,8.394,NA,NA,52.4,7.6,-0.08,246.08517,"CJ1310",NA,NA,"HMDB0000497"
+"ldlr_serum_apr2022","2023-04","Serum","5,7-dihydroxy-6,8-dimethoxy-2-(4-methoxyphenyl)-4H-chromen-4-one","C18H16O7","Posi",362.12394,2.44,NA,NA,56,37,1.57,344.09014,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","5-(2-Methylpropyl)tetrahydro-2-oxo-3-furancarboxylic acid","C9H14O4","Nega",185.0826,12.118,11.82,0.298,87,9.3,3.57,186.08987,"CJ1003","Nega","DDA","HMDB0030988"
+"ldlr_serum_apr2022","2023-04","Serum","5-(2-Methylpropyl)tetrahydro-2-oxo-3-furancarboxylic acid","C9H14O4","Posi",187.09541,12.522,11.82,0.702,86.2,9.3,-6.53,186.08799,"CJ1003","Nega","DDA","HMDB0030988"
+"ldlr_serum_apr2022","2023-04","Serum","5-(isopropylthio)-4-phenyl-4H-1,2,4-triazol-3-ol","C11H13N3OS","Posi",236.08246,3.66,NA,NA,59.2,8,-11.7,235.07518,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","5-({[3-chloro-5-(trifluoromethyl)-2-pyridyl]methyl}thio)-4-pentyl-4h-1,2,4-triazol-3-ol","C14H16ClF3N4OS","Posi",381.07821,15.219,14.93,0.289,52.9,7.6,6.28,380.07093,"CJ1002","Posi","DDA",NA
+"ldlr_serum_apr2022","2023-04","Serum","5-Aminolevulinic acid","C5H9NO3","Nega",130.05122,11.872,13.1,-1.228,66,8.3,1.94,131.0585,"CJ0087","Both","Sigma","HMDB0001149"
+"ldlr_serum_apr2022","2023-04","Serum","5-Aminopentanoic acid","C5H11NO2","Posi",118.08532,14.946,14.64,0.305999999999999,98.3,9.9,-7.98,117.07804,"CJ0088","Both","Sigma","HMDB0003355"
+"ldlr_serum_apr2022","2023-04","Serum","5-Hydroxyindole","C8H7NO","Posi",134.05949,1.969,1.95,0.0190000000000001,88.2,54.9,-4.11,133.05222,"CJ1006","Posi","DDA","HMDB0059805"
+"ldlr_serum_apr2022","2023-04","Serum","5-Hydroxyindole-3-acetic acid","C10H9NO3","Nega",190.05139,3.846,NA,NA,84.2,9.2,2.22,191.05867,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","5-Hydroxyindoleacetic acid","C10H9NO3","Nega",190.05102,4.459,5.39,-0.931,84.2,9.2,0.26,191.05829,"CJ0090","Nega","Sigma","HMDB0000763"
+"ldlr_serum_apr2022","2023-04","Serum","5-Methoxyindole","C9H9NO","Posi",148.07484,5.385,NA,NA,76.5,67.9,-5.8,147.06756,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","5-Methyl-1-(1,3,5-trimethyl-1H-pyrazol-4-yl)-1H-1,2,3-triazole","C9H13N5","Posi",192.12405,6.208,NA,NA,71.2,68.8,-1.66,191.11678,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","5-Methylcytidine","C10H15N3O5","Posi",258.1089,14.961,NA,NA,72.3,8.6,1.82,257.10164,"CJ1324",NA,NA,"HMDB0000982"
+"ldlr_serum_apr2022","2023-04","Serum","5-Methylcytosine","C5H7N3O","Posi",126.06594,8.503,7.87,0.633,75.2,27.5,-1.96,125.05867,"CJ0093","Both","Sigma","HMDB0002894"
+"ldlr_serum_apr2022","2023-04","Serum","5-[4-(4-methoxyphenoxy)phenyl]-1H-pyrazole","C16H14N2O2","Nega",265.09563,2.102,NA,NA,69.6,8.5,-9.86,266.1029,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","5-amino-1-phenyl-1H-pyrazole-4-carbonitrile","C10H8N4","Nega",183.06786,1.146,NA,NA,54.7,59.4,1.32,184.07514,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","5-benzyl-4-ethyl-2,4-dihydro-3H-1,2,4-triazole-3-thione","C11H13N3S","Posi",220.08732,2.885,NA,NA,52,41.3,-13.59,219.08004,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","5-hydroxy-2-phenyl-4H-chromen-4-one","C15H10O3","Posi",239.06525,4.098,NA,NA,69.9,48,-21.1,238.05797,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","5-methyl-1-(1,3,5-trimethyl-1h-pyrazol-4-yl)-1h-1,2,3-triazole","C9H13N5","Posi",192.12413,4.954,3.55,1.404,71.2,68.8,-1.35,191.11684,"CJ1007","Posi","DDA",NA
+"ldlr_serum_apr2022","2023-04","Serum","6-(2-{8,8-dimethyl-2-oxo-2h,8h-pyrano[2,3-f]chromen-3-yl}-5-methoxyphenoxy)-3,4,5-trihydroxyoxane-2-carboxylic acid isomer","C27H26O11","Posi",527.15621,15.405,NA,NA,86.6,53.9,2.7,526.14893,"CJ1332",NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","6-(4-nitrophenyl)-2,3-dihydroimidazo[2,1-b][1,3]thiazole","C11H9N3O2S","Posi",248.04984,13.424,NA,NA,57.6,42.2,3.98,247.04253,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","6-Amino-1,3-dimethyluracil","C6H9N3O2","Posi",156.0765,6.789,NA,NA,54.6,7.7,-1.74,155.06921,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","6-Aminocaproic acid","C6H13NO2","Posi",132.10153,17.081,NA,NA,57.9,7.9,-2.94,131.09424,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","6-Aminonicotinamide","C6H7N3O","Posi",138.06604,5.906,NA,NA,50.9,7.5,-1.15,137.05875,"CJ1335",NA,NA,"HMDB0247034"
+"ldlr_serum_apr2022","2023-04","Serum","6-Aminonicotinic acid","C6H6N2O2","Posi",139.05164,7.83,NA,NA,53.6,7.7,10.44,138.04437,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","6-Dimethylaminopurine","C7H9N5","Posi",164.093,7.956,7.372,0.584000000000001,66.6,66.9,-0.5,163.08571,"CJ1011",NA,"DDA","HMDB0000473"
+"ldlr_serum_apr2022","2023-04","Serum","6-Hydroxy-2-naphthoic acid","C11H8O3","Nega",187.04133,7.601,NA,NA,51.7,7.6,6.73,188.04861,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","6-Methylnicotinamide","C7H8N2O","Posi",137.07033,1.163,NA,NA,63.9,38.5,-4.47,136.06305,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","6-[(2E,6E)-7-(5-hydroxy-3-methyl-2-oxocyclopent-3-en-1-yl)-6-methylhepta-2,6-dien-2-yl]-3-methyl-5,6-dihydro-2H-pyran-2-one","C20H26O4","Posi",331.18485,2.702,NA,NA,65.1,23.9,-16.7,330.1776,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","6-chloro-3-[(dimethylamino)methylidene]chroman-4-one","C12H12ClNO2","Posi",238.06143,2.874,NA,NA,59.7,37.7,-6.32,237.05416,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","7-Aminomethyl-7-carbaguanine","C7H9N5O","Posi",180.08718,5.655,5.24,0.415,53.6,7.7,-4.48,179.07991,"CJ1019","Posi","DDA","HMDB0011690"
+"ldlr_serum_apr2022","2023-04","Serum","7-Dehydrocholesterol","C27H44O","Posi",385.34426,2.859,2.24,0.619,83.7,9.2,-5.87,384.33696,"CJ0099","Posi","Sigma","HMDB0000032"
+"ldlr_serum_apr2022","2023-04","Serum","7-Epi-12-hydroxyjasmonic acid","C12H18O4","Posi",227.12706,3.838,2.65,1.188,56.2,7.8,-3.68,226.11968,"CJ1170","Posi","DDA","HMDB0303749"
+"ldlr_serum_apr2022","2023-04","Serum","7-Methylguanine","C6H7N5O","Nega",164.05791,8.367,7.7275,0.639500000000001,83,71.7,0.75,165.06518,"CJ1020","Both","DDA","HMDB0000897"
+"ldlr_serum_apr2022","2023-04","Serum","7-Methylguanine","C6H7N5O","Posi",166.07132,8.326,7.7275,0.5985,84.3,79.2,-6.18,165.06404,"CJ1020","Both","DDA","HMDB0000897"
+"ldlr_serum_apr2022","2023-04","Serum","8-(4-Sulfophenyl) octanoic acid","C14H20O5S","Nega",299.09636,2.896,NA,NA,51.1,7.6,1.64,300.10364,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","8-Acetylegelolide","C16H20O6","Posi",309.13213,2.495,NA,NA,75.1,27.5,-3.75,308.12483,"CJ1351",NA,NA,"HMDB0037772"
+"ldlr_serum_apr2022","2023-04","Serum","8-Hydroxyquinoline","C9H7NO","Posi",146.05916,5.507,NA,NA,84.4,58.9,-6.09,145.05188,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","9-[(2-hydroxyethoxy)methyl]-1,9-dihydro-6H-purin-6-one","C8H10N4O3","Nega",209.06837,5.341,NA,NA,56.9,44.1,1.72,210.07565,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","ADB-PINACA","C19H28N4O2","Posi",345.22462,2.551,NA,NA,68.2,8.4,-8.58,344.21827,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","Abscisic acid","C15H20O4","Posi",265.14246,2.442,NA,NA,53.7,22.8,-3.93,264.13512,"CJ1353",NA,NA,"HMDB0036093"
+"ldlr_serum_apr2022","2023-04","Serum","Acamprosate","C5H11NO4S","Nega",180.03366,3.617,3.64,-0.0230000000000001,89.5,9.5,0.34,181.04094,"CJ1022","Nega","DDA","HMDB0014797"
+"ldlr_serum_apr2022","2023-04","Serum","Acetaminophen glucuronide","C14H17NO8","Nega",326.09232,10.154,NA,NA,66.7,63.5,12.78,327.0996,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","Acetohydroxamic acid","C2H5NO2","Nega",74.02485,2.991,NA,NA,85.4,9.3,1.29,75.03212,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","Acetohydroxamic acid","C2H5NO2","Posi",76.03916,6.511,NA,NA,76.9,8.8,-2.13,75.03187,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","Acetophenone","C8H8O","Posi",121.06459,10.257,NA,NA,80.7,53.9,-1.66,120.05732,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","Acetyl-β-methylcholine","C8H17NO2","Posi",160.13272,10.395,NA,NA,57.4,23.2,-3.08,159.12544,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","Acetylcarnosine","C11H16N4O4","Nega",267.10997,12.144,11.7725,0.371499999999999,84.8,71.1,0.34,268.11725,"CJ1024","Both","DDA","HMDB0012881"
+"ldlr_serum_apr2022","2023-04","Serum","Acrylic acid","C3H4O2","Nega",71.01388,7.849,5.69,2.159,96.7,9.8,0.41,72.02116,"CJ0038","Nega","Sigma","HMDB0031647"
+"ldlr_serum_apr2022","2023-04","Serum","Adenine","C5H5N5","Posi",136.06123,15.038,6.71,8.328,61,42.7,-3.97,135.05396,"CJ0104","Both","Sigma","HMDB0000034"
+"ldlr_serum_apr2022","2023-04","Serum","Adenosine 2',3'-cyclic phosphate","C10H12N5O6P","Nega",328.04529,9.396,8.54,0.856000000000002,79.6,9,0.14,329.05256,"CJ0106","Both","Sigma","HMDB0011616"
+"ldlr_serum_apr2022","2023-04","Serum","Adipostatin A","C21H36O2","Posi",321.27739,2.339,3.2,-0.861,56,7.8,-8.04,320.26896,NA,"nega","STD","HMDB0031009"
+"ldlr_serum_apr2022","2023-04","Serum","Allose","C6H12O6","Nega",179.05677,13.324,11.96,1.364,78.5,48.1,3.68,180.06405,"CJ0117","Nega","Sigma","HMDB0001151"
+"ldlr_serum_apr2022","2023-04","Serum","Alpha-Lactose","C12H22O11","Nega",341.10898,14.954,14.85,0.104000000000001,63.7,45,0.14,342.11626,"CJ0353","Both","Sigma","HMDB0000186"
+"ldlr_serum_apr2022","2023-04","Serum","Alpha-Lactose","C12H22O11","Posi",343.12176,15.847,14.85,0.997,97.9,9.9,-4.8,342.11457,"CJ0353","Both","Sigma","HMDB0000186"
+"ldlr_serum_apr2022","2023-04","Serum","Aminoadipic acid","C6H11NO4","Nega",160.06168,14.542,14.29,0.252000000000001,95.1,62,0.94,161.06896,"CJ0121","Both","Sigma","HMDB0000510"
+"ldlr_serum_apr2022","2023-04","Serum","Aminoadipic acid","C6H11NO4","Posi",162.0756,14.554,14.29,0.264000000000001,91,82.8,-3.24,161.06829,"CJ0121","Both","Sigma","HMDB0000510"
+"ldlr_serum_apr2022","2023-04","Serum","Arabinonic acid","C5H10O6","Nega",165.04047,12.122,11.84,0.282,54.4,43.8,0.02,166.04774,"CJ1031","Nega","DDA","HMDB0000539"
+"ldlr_serum_apr2022","2023-04","Serum","Arachidic acid","C20H40O2","Nega",311.29542,2.126,2.04,0.0859999999999999,51.8,25.4,-0.44,312.30269,"CJ0128","Nega","Sigma","HMDB0002212"
+"ldlr_serum_apr2022","2023-04","Serum","Argininosuccinic acid","C10H18N4O6","Posi",291.1288,15.224,14.92,0.304,83.2,9.2,-3.85,290.12152,"CJ1033","Nega","DDA","HMDB0000052"
+"ldlr_serum_apr2022","2023-04","Serum","Aspartame","C14H18N2O5","Posi",295.12774,4.134,NA,NA,90.7,82.6,-4.35,294.12029,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","Aspartylglycosamine","C12H21N3O8","Posi",336.13862,15.458,NA,NA,62.9,23.7,-4.51,335.13135,"CJ1391",NA,NA,"HMDB0000489"
+"ldlr_serum_apr2022","2023-04","Serum","Asperulosidic acid","C18H24O12","Nega",431.11185,6.422,NA,NA,59.7,8,-17.69,432.11913,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","Asymmetric dimethylarginine","C8H18N4O2","Posi",203.14878,18.87,18.35,0.52,68.1,39.3,-7.28,202.1415,"CJ0405","Both","Sigma","HMDB0001539"
+"ldlr_serum_apr2022","2023-04","Serum","Azelaic acid","C9H16O4","Nega",187.09744,12.081,12.01,0.0709999999999997,88.6,72.8,-0.76,188.10472,"CJ0133","Both","Sigma","HMDB0000784"
+"ldlr_serum_apr2022","2023-04","Serum","Baicalin","C21H18O11","Posi",447.08971,3.999,3.982,0.0169999999999999,81.2,54.6,-5.54,446.08244,"CJ1037",NA,"DDA","HMDB0041832"
+"ldlr_serum_apr2022","2023-04","Serum","Benzoic acid","C7H6O2","Nega",121.02976,4.474,2.59,1.884,90.2,40.3,2.07,122.03703,"CJ0135","Nega","Sigma","HMDB0001870"
+"ldlr_serum_apr2022","2023-04","Serum","Benzothiazole","C7H5NS","Posi",136.02099,1.106,NA,NA,88.5,9.4,-4.09,135.01372,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","Benzotriazole","C6H5N3","Posi",120.05543,2.894,NA,NA,98.4,84.2,-1.65,119.04815,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","Benzyl butyl phthalate","C19H20O4","Posi",313.14173,1.066,2.24,-1.174,78.5,8.9,-5.48,312.13445,"CJ1038","Posi","DDA","HMDB0249068"
+"ldlr_serum_apr2022","2023-04","Serum","Betaine","C5H11NO2","Posi",118.08554,3.793,10.94,-7.147,93.6,9.7,-6.14,117.07826,"CJ0141","Both","Sigma","HMDB0000043"
+"ldlr_serum_apr2022","2023-04","Serum","Bicine","C6H13NO4","Posi",164.09293,5.625,NA,NA,70.1,68,7.06,163.08561,"CJ1407",NA,NA,"HMDB0011727"
+"ldlr_serum_apr2022","2023-04","Serum","Bicyclo prostaglandin E2","C20H30O4","Posi",335.21819,2.336,NA,NA,71.5,8.6,-10.22,334.21099,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","Bilirubin","C33H36N4O6","Posi",585.26508,2.316,NA,NA,50.2,7.5,-9.72,584.25781,"CJ0143","not detected in both","Sigma","HMDB0000054"
+"ldlr_serum_apr2022","2023-04","Serum","Bis(2-ethylhexyl) phthalate","C24H38O4","Posi",391.28165,2.797,2.04,0.757,69.9,24.4,-6.74,390.27438,"CJ0146","Nega","Sigma","HMDB0249243"
+"ldlr_serum_apr2022","2023-04","Serum","Bis(3,5,5-trimethylhexyl) phthalate","C26H42O4","Posi",419.31184,13.012,NA,NA,81.1,31.1,-8.95,418.30457,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","Bis(4-ethylbenzylidene)sorbitol","C24H30O6","Posi",415.20817,6.882,NA,NA,58.3,7.9,-8.07,414.2009,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","Bisoprolol","C18H31NO4","Posi",326.23028,3.517,NA,NA,75.7,8.8,-4.49,325.22385,"CJ1410",NA,NA,"HMDB0014750"
+"ldlr_serum_apr2022","2023-04","Serum","Bitertanol","C20H23N3O2","Posi",338.194,2.754,NA,NA,70.8,8.5,25.61,337.18766,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","Butyric acid","C4H8O2","Nega",87.04507,10.566,11.65,-1.084,93.9,9.7,-0.92,88.05235,"CJ0147","Nega","Sigma","HMDB0000039"
+"ldlr_serum_apr2022","2023-04","Serum","Capric acid","C10H20O2","Nega",171.13913,2.419,2.31,0.109,74,8.7,0.45,172.14641,"CJ0200","Nega","Sigma","HMDB0000511"
+"ldlr_serum_apr2022","2023-04","Serum","Caprylic acid","C8H16O2","Nega",143.10778,2.623,2.46,0.163,80.6,9,0.17,144.11505,"CJ0156","Nega","Sigma","HMDB0000482"
+"ldlr_serum_apr2022","2023-04","Serum","Carnosine","C9H14N4O3","Nega",225.09956,15.736,15.01,0.726000000000001,77.4,67,1.1,226.10684,"CJ0160","Both","Sigma","HMDB0000033"
+"ldlr_serum_apr2022","2023-04","Serum","Carnosine","C9H14N4O3","Posi",227.1133,15.485,15.01,0.475,94.8,84,-2.66,226.10599,"CJ0160","Both","Sigma","HMDB0000033"
+"ldlr_serum_apr2022","2023-04","Serum","Cetrimonium","C19H41N","Posi",284.32911,5.758,NA,NA,94.5,9.7,-7.31,283.32183,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","Chenodeoxycholic acid","C24H40O4","Nega",391.28501,4.546,3.82,0.726,71.4,28,-0.96,392.29228,"CJ0163","Both","Sigma","HMDB0000518"
+"ldlr_serum_apr2022","2023-04","Serum","Chenodeoxycholic acid glycine conjugate","C26H43NO5","Nega",448.30709,3.858,2.9,0.958,92,9.6,0.54,449.31437,"CJ0295","Both","Sigma","HMDB0000637"
+"ldlr_serum_apr2022","2023-04","Serum","Chlormequat","C5H12ClN","Posi",122.07111,12.081,NA,NA,54.9,7.7,-16.48,121.06383,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","Cholic acid","C24H40O5","Nega",407.27976,3.112,3.91,-0.798,95.4,9.8,-1.33,408.28703,"CJ0164","Both","Sigma","HMDB0000619"
+"ldlr_serum_apr2022","2023-04","Serum","Choline","C5H13NO","Posi",104.10633,16.083,NA,NA,92.4,9.6,-6.39,103.09906,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","Cinnamoylglycine","C11H11NO3","Nega",204.06654,2.921,3.183,-0.262,79.5,67,-0.39,205.07381,"CJ1044",NA,"DDA","HMDB0011621"
+"ldlr_serum_apr2022","2023-04","Serum","Cinnamoylglycine","C11H11NO3","Posi",206.08101,3.084,3.183,-0.0989999999999998,68.2,39.3,-3.88,205.0731,"CJ1044",NA,"DDA","HMDB0011621"
+"ldlr_serum_apr2022","2023-04","Serum","Citric acid","C6H8O7","Nega",191.01992,16.794,14.24,2.554,87.7,72.4,1,192.02719,"CJ0171","Both","Sigma","HMDB0000094"
+"ldlr_serum_apr2022","2023-04","Serum","Citrulline","C6H13N3O3","Posi",176.10212,14.649,14.58,0.0689999999999991,71.7,8.6,-6.34,175.09458,"CJ0172","Both","Sigma","HMDB0000904"
+"ldlr_serum_apr2022","2023-04","Serum","Clomazone","C12H14ClNO2","Posi",240.07769,3.348,NA,NA,54.1,22.8,-3.72,239.07042,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","Clonazolam","C17H12ClN5O2","Posi",354.0797,13.68,NA,NA,56.3,7.8,13.37,353.07267,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","Coumarin","C9H6O2","Posi",147.04369,4.341,NA,NA,78.4,50.9,-2.55,146.03641,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","Creatine","C4H9N3O2","Nega",130.06238,14.225,13.94,0.285,53.6,7.7,1.38,131.06966,"CJ0180","Both","Sigma","HMDB0000064"
+"ldlr_serum_apr2022","2023-04","Serum","Creatine","C4H9N3O2","Posi",132.07611,14.223,13.94,0.283000000000001,96.6,78.1,-4.8,131.06885,"CJ0180","Both","Sigma","HMDB0000064"
+"ldlr_serum_apr2022","2023-04","Serum","Creatinine","C4H7N3O","Posi",114.06602,9.191,7.6,1.591,87.6,9.4,-1.46,113.05875,"CJ0181","Both","Sigma","HMDB0000562"
+"ldlr_serum_apr2022","2023-04","Serum","Crotonic acid","C4H6O2","Nega",85.02943,5.802,NA,NA,60.2,8,-0.83,86.03671,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","Crotonic acid","C4H6O2","Posi",87.04358,10.421,NA,NA,67.8,8.4,-5.56,86.0363,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","Cyclo(L-His-L-Pro)","C11H14N4O2","Posi",235.11739,5.695,5.33,0.365,52.6,7.6,-6.69,234.11011,"CJ1017","Posi","DDA","HMDB0250630"
+"ldlr_serum_apr2022","2023-04","Serum","Cyclodopa glucoside","C15H19NO9","Nega",356.09837,8.49,NA,NA,66.6,26.8,-0.94,357.10565,"CJ1445",NA,NA,"HMDB0029833"
+"ldlr_serum_apr2022","2023-04","Serum","Cyclohexylamine","C6H13N","Posi",100.11172,1.034,NA,NA,83.5,9.2,-3.59,99.10444,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","Cycluron","C11H22N2O","Posi",199.18011,1.243,NA,NA,61.1,42.8,-1.93,198.17283,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","Cysteine-S-sulfate","C3H7NO5S2","Posi",201.98279,9.971,9.523,0.448,73.4,8.7,-5.21,200.97552,"CJ1050",NA,"DDA","HMDB0000731"
+"ldlr_serum_apr2022","2023-04","Serum","Cytidine","C9H13N3O5","Nega",242.07861,10.008,9.7,0.308,65.7,45.2,1.5,243.08589,"CJ0192","Both","Sigma","HMDB0000089"
+"ldlr_serum_apr2022","2023-04","Serum","Cytosine","C4H5N3O","Nega",110.03627,8.738,8.47,0.267999999999999,58.4,7.9,2.53,111.04354,"CJ0198","Both","Sigma","HMDB0000630"
+"ldlr_serum_apr2022","2023-04","Serum","Cytosine","C4H5N3O","Posi",112.05005,7.942,8.47,-0.528,91.8,62.3,-3.76,111.04284,"CJ0198","Both","Sigma","HMDB0000630"
+"ldlr_serum_apr2022","2023-04","Serum","D & C Yellow 11","C18H11NO2","Posi",274.08592,7.881,NA,NA,55.6,36.9,-1.22,273.07865,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","D-(+)-Galactosamine","C6H13NO5","Posi",180.08726,12.465,13.78,-1.315,55.1,45.4,3.34,179.07997,"CJ0263","Both","Sigma","HMDB0341150"
+"ldlr_serum_apr2022","2023-04","Serum","D-(+)-Proline","C5H9NO2","Posi",116.07023,20.036,NA,NA,89.5,9.5,-3.29,115.06295,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","D-Alanine methyl ester","C4H9NO2","Posi",145.09685,2.729,NA,NA,53,7.7,-2.79,103.06304,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","D-Alanyl-D-alanine","C6H12N2O3","Posi",161.09147,15.104,11.92,3.184,60.9,65.3,-3.7,160.0842,"CJ1026","Nega","DDA","HMDB0003459"
+"ldlr_serum_apr2022","2023-04","Serum","D-Glucuronic acid","C6H10O7","Nega",193.0354,14.182,13.9,0.282,87.3,72.2,0.11,194.04267,"CJ0280","Both","Sigma","HMDB0000127"
+"ldlr_serum_apr2022","2023-04","Serum","D-Glucurono-6,3-lactone","C6H8O6","Nega",175.02482,5.559,4.16,1.399,54.8,59.4,0.05,176.0321,"CJ0220","Nega","Sigma","HMDB0006355"
+"ldlr_serum_apr2022","2023-04","Serum","D-Malic acid","C4H6O5","Nega",133.01409,14.586,14.42,0.166,84.5,36.3,-1.16,134.02137,"CJ0369","Both","Sigma","HMDB0031518"
+"ldlr_serum_apr2022","2023-04","Serum","D-Tryptophan","C11H12N2O2","Nega",203.08284,10.147,9.4,0.747,75.1,30.3,1.17,204.09012,"CJ0577","Both","Sigma","HMDB0000929"
+"ldlr_serum_apr2022","2023-04","Serum","D-Tryptophan","C11H12N2O2","Posi",205.09603,9.649,9.4,0.248999999999999,78.3,50.8,-5.53,204.08875,"CJ0577","Both","Sigma","HMDB0000929"
+"ldlr_serum_apr2022","2023-04","Serum","DL-2-Aminooctanoic acid","C8H17NO2","Posi",160.13241,9.559,8.32,1.239,85.4,53.3,-5.02,159.12513,"CJ1062","Nega","DDA","HMDB0000991"
+"ldlr_serum_apr2022","2023-04","Serum","DL-4-Hydroxyphenyllactic acid","C9H10O4","Nega",181.05098,5.908,NA,NA,53.9,44,1.9,182.05825,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","DL-Arginine","C6H14N4O2","Posi",175.11831,21.316,NA,NA,96.3,86.7,-3.7,174.11103,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","DL-Carnitine","C7H15NO3","Posi",162.11135,16.316,NA,NA,83.5,32.6,-7.25,161.10403,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","DL-Dipalmitoylphosphatidylcholine","C40H80NO8P","Posi",734.567,3.785,NA,NA,90.3,57.1,-2.92,733.56002,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","DL-Isocitric acid lactone","C6H6O6","Nega",173.00927,12.78,12.76,0.0199999999999996,62.4,26.4,0.6,174.01654,"CJ1102","Nega","DDA","HMDB0341313"
+"ldlr_serum_apr2022","2023-04","Serum","DL-Lysine","C6H14N2O2","Posi",147.11264,19.883,NA,NA,74.6,8.7,-1.16,146.10536,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","DL-Stachydrine","C7H13NO2","Posi",144.1015,12.752,NA,NA,83.8,9.2,-2.8,143.09423,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","Decanamide","C10H21NO","Posi",172.16931,10.846,NA,NA,77.7,48.7,-1.63,171.16204,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","Decarbamoyloxysaxitoxin","C9H16N6O2","Posi",241.14218,3.846,NA,NA,53.6,22.8,6,240.13492,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","Dehydronorketamine","C12H12ClNO","Posi",222.06679,9.305,NA,NA,84.6,79.7,-5.53,221.05952,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","Demethylated antipyrine","C10H10N2O","Posi",175.08615,3.709,3.64,0.069,72.9,45.9,-2.58,174.07886,"CJ1051","Posi","DDA","HMDB0006240"
+"ldlr_serum_apr2022","2023-04","Serum","Deoxyinosine","C10H12N4O4","Posi",253.09113,7.787,8.11,-0.323,92.5,9.6,-7.85,252.08388,"CJ1054","Nega","DDA","HMDB0000071"
+"ldlr_serum_apr2022","2023-04","Serum","Deoxynivalenol","C15H20O6","Posi",297.13104,2.872,NA,NA,61.9,8.1,-7.53,296.12376,"CJ1460",NA,NA,"HMDB0036156"
+"ldlr_serum_apr2022","2023-04","Serum","Deschloroketamine","C13H17NO","Posi",204.13757,2.737,NA,NA,62.1,56.3,-3.52,203.1303,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","Diacetyl","C4H6O2","Nega",85.02952,14.383,13.45,0.933,81.6,9.1,0.23,86.0368,"CJ0222","Nega","Sigma","HMDB0003407"
+"ldlr_serum_apr2022","2023-04","Serum","Diaminopimelic acid","C7H14N2O4","Posi",191.10187,14.479,15.46,-0.981000000000002,51.1,44.6,-3.98,190.0946,"CJ0223","Both","Sigma","HMDB0001370"
+"ldlr_serum_apr2022","2023-04","Serum","Dibenzylamine","C14H15N","Posi",198.12681,2.67,NA,NA,84.2,9.2,-4.65,197.11953,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","Didecyldimethylammonium","C22H47N","Posi",326.37567,4.202,NA,NA,88.5,35.6,-7.55,325.36839,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","Dihydrothymine","C5H8N2O2","Nega",127.05157,14.622,14.3475,0.2745,65.4,8.3,2.13,128.05885,"CJ1057","Both","DDA","HMDB0000079"
+"ldlr_serum_apr2022","2023-04","Serum","Dihydrothymine","C5H8N2O2","Posi",129.06553,3.514,14.3475,-10.8335,52,41.3,-2.82,128.05822,"CJ1057","Both","DDA","HMDB0000079"
+"ldlr_serum_apr2022","2023-04","Serum","Dimethachlor ESA","C13H19NO5S","Nega",300.08745,2.065,NA,NA,62.3,8.1,-12.16,301.09473,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","Dimethylglycine","C4H9NO2","Nega",102.05628,11.356,12.26,-0.904,79.3,9,2.21,103.06356,"CJ1061","Both","DDA","HMDB0000092"
+"ldlr_serum_apr2022","2023-04","Serum","Diosmetin","C16H12O6","Posi",301.07402,1.033,NA,NA,63.8,8.2,11.11,300.06672,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","Docosahexaenoic acid","C22H32O2","Nega",327.23302,2.116,2.04,0.0760000000000001,74,46.9,0.22,328.2403,"CJ0237","Nega","Sigma","HMDB0002183"
+"ldlr_serum_apr2022","2023-04","Serum","Docosahexaenoic acid ethyl ester","C24H36O2","Posi",357.27612,12.07,NA,NA,73.4,26.5,-7.53,356.26885,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","Dodecamethylcyclohexasiloxane","C12H36O6Si6","Posi",445.11868,2.251,NA,NA,74.4,71.1,-3.06,444.11139,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","Dodecanoic acid","C12H24O2","Nega",199.17065,2.867,2.57,0.297,71.6,8.6,1.49,200.17793,"CJ0356","Nega","Sigma","HMDB0000638"
+"ldlr_serum_apr2022","2023-04","Serum","Dodecyl sulfate","C12H26O4S","Nega",265.14712,8.293,NA,NA,91.9,9.6,-2.93,266.1544,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","Eicosadienoic acid","C20H36O2","Nega",307.26465,2.428,2.05,0.378,78,8.9,1.28,308.27192,"CJ0702","Nega","fatty acids","HMDB0005060"
+"ldlr_serum_apr2022","2023-04","Serum","Eicosapentaenoic acid","C20H30O2","Posi",303.23042,2.345,2.27,0.0750000000000002,68.7,8.4,-4.77,302.22314,"CJ0244","Both","Sigma","HMDB0001999"
+"ldlr_serum_apr2022","2023-04","Serum","Elaidic acid","C18H34O2","Nega",281.24803,1.989,2.07,-0.0809999999999997,91.3,9.6,-2.02,282.25531,"CJ0245","Nega","Sigma","HMDB0000573"
+"ldlr_serum_apr2022","2023-04","Serum","Epitestosterone glucuronide","C25H36O8","Posi",465.23995,2.878,NA,NA,51.6,7.6,-17.97,464.23268,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","Eplerenone","C24H30O6","Posi",415.20999,2.447,2.2725,0.1745,94.4,9.7,-3.93,414.20261,"CJ1065","Both","DDA","HMDB0014838"
+"ldlr_serum_apr2022","2023-04","Serum","Eremopetasinorol","C13H20O2","Posi",209.15262,1.095,NA,NA,82.7,32.1,-4.73,208.14535,"CJ1515",NA,NA,"HMDB0029668"
+"ldlr_serum_apr2022","2023-04","Serum","Ergosterol peroxide","C28H44O3","Posi",429.32945,2.401,NA,NA,60.7,23.5,-15.72,428.32231,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","Eriodictyol","C15H12O6","Nega",287.05742,8.471,NA,NA,51.3,7.6,4.53,288.06469,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","Erucamide","C22H43NO","Posi",338.3387,7.63,NA,NA,76,8.8,-9.03,337.33142,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","Erythronic acid","C4H8O5","Nega",135.03004,12.055,11.75,0.305,75.2,8.8,1.05,136.03732,"CJ1067","Nega","DDA","HMDB0000613"
+"ldlr_serum_apr2022","2023-04","Serum","Erythronic acid","C4H8O5","Posi",137.04557,10.639,11.75,-1.111,57.1,7.9,8.25,136.0383,"CJ1067","Nega","DDA","HMDB0000613"
+"ldlr_serum_apr2022","2023-04","Serum","Esketamine","C13H16ClNO","Posi",238.09749,14.737,NA,NA,50.7,22.5,-7.7,237.09022,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","Ethyl 3-acetyl-4-oxopentanoate","C9H14O4","Posi",187.09751,2.885,NA,NA,50.9,41.1,4.63,186.09007,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","Ethylmalonic acid","C5H8O4","Nega",131.03592,12.962,12,0.962,62.8,8.1,7.11,132.0432,"CJ0252","Nega","Sigma","HMDB0000622"
+"ldlr_serum_apr2022","2023-04","Serum","Firocoxib","C17H20O5S","Posi",337.10569,8.23,NA,NA,64,23.8,-14.08,336.09841,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","Flucloxacillin","C19H17ClFN3O5S","Posi",454.06423,12.03,NA,NA,64.7,43.3,1.97,453.05704,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","Flutamide","C11H11F3N2O3","Posi",277.07683,1.225,NA,NA,61.7,46.6,-9.51,276.06955,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","Gabapentin","C9H17NO2","Posi",172.13256,2.579,NA,NA,82.6,77,-3.81,171.12528,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","Galactitol","C6H14O6","Nega",181.0719,12.781,12.61,0.171000000000001,90.8,9.5,0.76,182.07918,"CJ0262","Both","Sigma","HMDB0000107"
+"ldlr_serum_apr2022","2023-04","Serum","Galactonic acid","C6H12O7","Nega",195.04905,6.898,12.66,-5.762,52.3,7.6,-10.08,196.05633,"CJ1071","Nega","DDA","HMDB0000565"
+"ldlr_serum_apr2022","2023-04","Serum","Galactose-beta-1,4-xylose","C11H20O10","Posi",313.11225,14.106,NA,NA,79.9,9,-4.02,312.10439,"CJ1542",NA,NA,"HMDB0011677"
+"ldlr_serum_apr2022","2023-04","Serum","Galactosylhydroxylysine","C12H24N2O8","Nega",323.14661,19.315,NA,NA,50.5,58,1.91,324.15388,"CJ1543",NA,NA,"HMDB0000600"
+"ldlr_serum_apr2022","2023-04","Serum","Galactosylhydroxylysine","C12H24N2O8","Posi",325.16311,2.665,NA,NA,52.1,53.7,8.32,324.15596,"CJ1543",NA,NA,"HMDB0000600"
+"ldlr_serum_apr2022","2023-04","Serum","Gerberinol","C21H16O6","Posi",365.10435,15.421,NA,NA,97.9,9.9,6.56,364.09708,"CJ1553",NA,NA,"HMDB0033304"
+"ldlr_serum_apr2022","2023-04","Serum","Gingerol","C17H26O4","Nega",293.17862,2.377,1.84,0.537,91.9,46.4,9.47,294.1859,"CJ1072","Nega","DDA","HMDB0005783"
+"ldlr_serum_apr2022","2023-04","Serum","Glutaconic acid","C5H6O4","Nega",129.01939,14.477,14.39,0.0869999999999997,82.1,9.1,0.48,130.02667,"CJ1075","Nega","DDA","HMDB0000620"
+"ldlr_serum_apr2022","2023-04","Serum","Glutamylproline","C10H16N2O5","Posi",245.11393,2.931,NA,NA,54.2,36.6,2.95,244.10664,"CJ1769",NA,NA,"HMDB0028827"
+"ldlr_serum_apr2022","2023-04","Serum","Glutaric acid","C5H8O4","Nega",131.03485,14.032,13.24,0.792,51.6,7.6,-1.03,132.04212,"CJ0283","Both","Sigma","HMDB0000661"
+"ldlr_serum_apr2022","2023-04","Serum","Glyceraldehyde","C3H6O3","Nega",89.02446,14.459,12.99,1.469,78.7,8.9,0.44,90.03173,"CJ0286","Nega","Sigma","HMDB0001051"
+"ldlr_serum_apr2022","2023-04","Serum","Glycerol 3-phosphate","C3H9O6P","Nega",171.00671,15.004,14.57,0.433999999999999,56.4,44,1.84,172.01399,"CJ0290","Both","Sigma","HMDB0000126"
+"ldlr_serum_apr2022","2023-04","Serum","Glycine","C2H5NO2","Nega",74.02492,9.613,14.1,-4.487,94.1,9.7,2.19,75.03219,"CJ0294","Both","Sigma","HMDB0000123"
+"ldlr_serum_apr2022","2023-04","Serum","Glycine anhydride","C4H6N2O2","Nega",113.03601,15.903,NA,NA,57.2,7.9,3.19,114.04329,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","Glycocholic acid","C26H43NO6","Nega",464.29999,6.51,2.98,3.53,78.7,8.9,-3.81,465.30726,"CJ0296","Both","Sigma","HMDB0000138"
+"ldlr_serum_apr2022","2023-04","Serum","Glycocholic acid","C26H43NO6","Posi",466.3144,3.938,2.98,0.958,86.7,9.3,-4.1,465.30713,"CJ0296","Both","Sigma","HMDB0000138"
+"ldlr_serum_apr2022","2023-04","Serum","Glycogen","C24H42O21","Nega",665.21565,15.988,16.62,-0.632000000000001,52.7,7.6,1.6,666.22292,"CJ1079","Nega","DDA","HMDB0000757"
+"ldlr_serum_apr2022","2023-04","Serum","Glycogen","C24H42O21","Posi",689.20947,16.822,16.62,0.201999999999998,86.4,70.6,-2.78,666.22,"CJ1079","Nega","DDA","HMDB0000757"
+"ldlr_serum_apr2022","2023-04","Serum","Glycolic acid","C2H4O3","Nega",75.00871,6.238,8.99,-2.752,97.1,9.9,-0.79,76.01598,"CJ0298","Both","Sigma","HMDB0000115"
+"ldlr_serum_apr2022","2023-04","Serum","Glycoursodeoxycholic acid","C26H43NO5","Nega",448.30575,4.432,4.542,-0.109999999999999,90.4,9.5,-2.44,449.31303,"CJ0606",NA,"Bile acids","HMDB0000708"
+"ldlr_serum_apr2022","2023-04","Serum","Glycylleucine","C8H16N2O3","Posi",189.12243,15.332,14.62,0.712000000000002,71.8,50.6,-5.11,188.11513,"CJ1080","Posi","DDA","HMDB0000759"
+"ldlr_serum_apr2022","2023-04","Serum","Glyoxylic acid","C2H2O3","Nega",72.99324,17.6,12.5,5.1,82.2,9.1,1.67,74.00052,"CJ0299","Nega","Sigma","HMDB0000119"
+"ldlr_serum_apr2022","2023-04","Serum","Guaifenesin","C10H14O4","Nega",197.08215,10.581,10.12,0.461,74.8,8.7,1.08,198.08942,"CJ1082","Nega","DDA","HMDB0004998"
+"ldlr_serum_apr2022","2023-04","Serum","Guanidinosuccinic acid","C5H9N3O4","Nega",174.05204,14.482,14.21,0.271999999999998,68.9,47.5,0.08,175.05932,"CJ0302","Both","Sigma","HMDB0003157"
+"ldlr_serum_apr2022","2023-04","Serum","Guanidinosuccinic acid","C5H9N3O4","Posi",176.06522,10.125,14.21,-4.085,68.4,8.4,-7.81,175.05794,"CJ0302","Both","Sigma","HMDB0003157"
+"ldlr_serum_apr2022","2023-04","Serum","Guanine","C5H5N5O","Posi",152.05662,8.446,9.05,-0.604000000000001,84.8,80,-0.46,151.04934,"CJ0303","Both","Sigma","HMDB0000132"
+"ldlr_serum_apr2022","2023-04","Serum","Guanosine","C10H13N5O5","Nega",282.08462,10.613,10.22,0.392999999999999,62,8.1,0.79,283.09189,"CJ0304","Both","Sigma","HMDB0000133"
+"ldlr_serum_apr2022","2023-04","Serum","Heptaethylene glycol","C14H30O8","Nega",325.18386,3.621,3.91,-0.289,84.3,73.2,-8.99,326.19113,"CJ1083","Posi","DDA","HMDB0061835"
+"ldlr_serum_apr2022","2023-04","Serum","Heptaethylene glycol","C14H30O8","Posi",327.19888,3.883,3.91,-0.0270000000000001,67.9,8.4,-7.94,326.19148,"CJ1083","Posi","DDA","HMDB0061835"
+"ldlr_serum_apr2022","2023-04","Serum","Hexadecanedioic acid","C16H30O4","Nega",285.20734,3.864,2.95575,0.90825,74.3,8.7,0.71,286.21461,"CJ1084",NA,"DDA","HMDB0000672"
+"ldlr_serum_apr2022","2023-04","Serum","Hexaethylene glycol","C12H26O7","Posi",283.17322,3.897,3.87,0.0269999999999997,71.1,8.6,-7.38,282.16577,"CJ1085","Posi","DDA","HMDB0061822"
+"ldlr_serum_apr2022","2023-04","Serum","Hexanoylglycine","C8H15NO3","Nega",172.09823,3.334,2.76,0.574,55.5,43.9,1.82,173.10551,"CJ1086","Nega","DDA","HMDB0000701"
+"ldlr_serum_apr2022","2023-04","Serum","Hippuric acid","C9H9NO3","Nega",178.05111,3.312,2.89,0.422,86.4,9.3,0.82,179.05839,"CJ0314","Both","Sigma","HMDB0000714"
+"ldlr_serum_apr2022","2023-04","Serum","Hippuric acid","C9H9NO3","Posi",180.0647,2.238,2.89,-0.652,80.7,73.9,-4.22,179.05749,"CJ0314","Both","Sigma","HMDB0000714"
+"ldlr_serum_apr2022","2023-04","Serum","Histamine","C5H9N3","Posi",112.08675,5.166,18.5,-13.334,69.3,44.1,-1.65,111.07946,"CJ0315","Posi","Sigma","HMDB0000870"
+"ldlr_serum_apr2022","2023-04","Serum","Homocysteinesulfinic acid","C4H9NO4S","Nega",166.01819,3.102,3.94,-0.838,50.8,43.3,1.44,167.02547,"CJ1088","Nega","DDA","HMDB0006462"
+"ldlr_serum_apr2022","2023-04","Serum","Homoveratric acid","C10H12O4","Nega",195.06627,8.114,7.807,0.307,59.9,61.2,-0.06,196.07355,"CJ1060","Both","DDA","HMDB0000434"
+"ldlr_serum_apr2022","2023-04","Serum","Hydroxyprolyl-Valine","C10H18N2O4","Posi",231.1345,7.843,NA,NA,63,8.1,2.38,230.12721,"CJ1597",NA,NA,"HMDB0028876"
+"ldlr_serum_apr2022","2023-04","Serum","Hypoglycin A","C7H11NO2","Posi",142.0856,18.05,NA,NA,60.8,23.5,-4.66,141.07832,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","Hypotaurine","C2H7NO2S","Nega",108.0126,14.071,13.74,0.331,55.4,7.8,1.16,109.01988,"CJ0328","Both","Sigma","HMDB0000965"
+"ldlr_serum_apr2022","2023-04","Serum","Hypotaurine","C2H7NO2S","Posi",110.0265,14.066,13.74,0.326000000000001,80.5,9,-4.78,109.01923,"CJ0328","Both","Sigma","HMDB0000965"
+"ldlr_serum_apr2022","2023-04","Serum","Hypoxanthine","C5H4N4O","Nega",135.03137,8.087,7.42,0.667,61.6,45.8,1.01,136.03865,"CJ0329","Both","Sigma","HMDB0000157"
+"ldlr_serum_apr2022","2023-04","Serum","Hypoxanthine","C5H4N4O","Posi",137.04501,14.928,7.42,7.508,86.7,82.7,-5.71,136.03773,"CJ0329","Both","Sigma","HMDB0000157"
+"ldlr_serum_apr2022","2023-04","Serum","Indirubin","C16H10N2O2","Posi",263.08054,1.992,NA,NA,79.4,72.1,-3.7,262.07326,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","Indole-3-acetylglycine","C12H12N2O3","Nega",231.07706,4.434,3.71475,0.71925,59,60.9,-1.95,232.08434,"CJ1097",NA,"DDA","HMDB0240661"
+"ldlr_serum_apr2022","2023-04","Serum","Indole-3-acetylglycine","C12H12N2O3","Posi",233.0916,2.72,3.71475,-0.99475,56.6,7.8,-2.04,232.08432,"CJ1097",NA,"DDA","HMDB0240661"
+"ldlr_serum_apr2022","2023-04","Serum","Indole-3-acrylic acid","C11H9NO2","Posi",188.07011,2.716,NA,NA,86.3,82.1,-2.64,187.06283,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","Indole-3-carboxaldehyde","C9H7NO","Nega",144.04576,2.76,2.71,0.0499999999999998,82.4,9.1,1.88,145.05304,"CJ0958","Nega","DDA","HMDB0029737"
+"ldlr_serum_apr2022","2023-04","Serum","Indole-3-carboxaldehyde","C9H7NO","Posi",146.05924,3.593,2.71,0.883,87.3,83.6,-5.41,145.05198,"CJ0958","Nega","DDA","HMDB0029737"
+"ldlr_serum_apr2022","2023-04","Serum","Indole-3-carboxylic acid","C9H7NO2","Nega",160.04033,3.165,3.675,-0.51,74,8.7,-0.45,161.04761,"CJ1096","Both","DDA","HMDB0003320"
+"ldlr_serum_apr2022","2023-04","Serum","Indole-3-carboxylic acid","C9H7NO2","Posi",162.0546,2.315,3.675,-1.36,80.7,73.9,-2.29,161.04731,"CJ1096","Both","DDA","HMDB0003320"
+"ldlr_serum_apr2022","2023-04","Serum","Indoleacrylic acid","C11H9NO2","Posi",188.07,9.64,9.36,0.280000000000001,83.3,77.8,-3.36,187.0627,"CJ1098","Posi","DDA","HMDB0000734"
+"ldlr_serum_apr2022","2023-04","Serum","Indoxyl sulfate","C8H7NO4S","Nega",212.0025,3.024,1.94,1.084,82.8,56,0.93,213.00978,"CJ0337","Both","Sigma","HMDB0000682"
+"ldlr_serum_apr2022","2023-04","Serum","Inosine","C10H12N4O5","Posi",269.08667,6.285,9,-2.715,71.9,25.5,-5.3,268.07935,"CJ0339","Both","Sigma","HMDB0000195"
+"ldlr_serum_apr2022","2023-04","Serum","Isobutyraldehyde","C4H8O","Posi",73.06475,1.049,NA,NA,66.3,8.3,-2.56,72.05733,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","Isobutyric acid","C4H8O2","Nega",87.04541,8.75,10.73,-1.98,91.6,9.6,2.88,88.05268,"CJ0343","Nega","Sigma","HMDB0001873"
+"ldlr_serum_apr2022","2023-04","Serum","Isobutyrylglycine","C6H11NO3","Posi",146.08069,13.954,NA,NA,69.5,8.5,-3.29,145.07342,"CJ1612",NA,NA,"HMDB0000730"
+"ldlr_serum_apr2022","2023-04","Serum","Isoleucylproline","C11H20N2O3","Posi",229.15414,14.63,13.2,1.43,86.6,9.3,-2.31,228.14687,"CJ1103","Posi","DDA","HMDB0011174"
+"ldlr_serum_apr2022","2023-04","Serum","Isolinderanolide","C21H36O3","Posi",337.27213,2.306,2.327,-0.0209999999999999,81.9,9.1,-4.73,336.26485,"CJ1111","Posi","DDA","HMDB0038105"
+"ldlr_serum_apr2022","2023-04","Serum","Isophthalic acid","C8H6O4","Nega",165.01959,8.433,NA,NA,85.4,9.3,1.55,166.02687,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","Itaconic acid","C5H6O4","Nega",129.01965,12.866,13.35,-0.484,83.6,9.2,2.45,130.02693,"CJ0347","Both","Sigma","HMDB0002092"
+"ldlr_serum_apr2022","2023-04","Serum","Kanosamine","C6H13NO5","Posi",180.08727,8.395,NA,NA,55.8,63.8,3.5,179.08,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","Ketamine","C13H16ClNO","Posi",238.09788,3.143,2.45,0.693,96.4,90.6,-6.06,237.0906,"CJ1108","Posi","DDA","HMDB0015352"
+"ldlr_serum_apr2022","2023-04","Serum","Kynurenic acid","C10H7NO3","Nega",188.03554,3.82,3.72,0.0999999999999996,67.8,8.4,1.18,189.04282,"CJ0349","Both","Sigma","HMDB0000715"
+"ldlr_serum_apr2022","2023-04","Serum","L(+)-2-Amino-6-phosphonohexanoic acid","C6H14NO5P","Posi",212.0664,3.746,NA,NA,65.7,8.3,-9.14,211.05903,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","L-(+)-Lactic acid","C3H6O3","Nega",89.02458,9.987,NA,NA,87.6,9.4,1.86,90.03186,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","L-Acetopine","C8H16N4O4","Posi",233.12234,3.617,NA,NA,56.2,23,-8.85,232.1151,"CJ1630",NA,NA,"HMDB0039111"
+"ldlr_serum_apr2022","2023-04","Serum","L-Acetylcarnitine","C9H17NO4","Posi",204.12208,12.593,12.05,0.542999999999999,97.9,81.6,-4.72,203.1148,"CJ0447","Posi","Sigma","HMDB0000201"
+"ldlr_serum_apr2022","2023-04","Serum","L-Allothreonine","C4H9NO3","Nega",118.05121,14.306,13.81,0.495999999999999,76.5,8.8,2.04,119.05849,"CJ0118","Both","Sigma","HMDB0004041"
+"ldlr_serum_apr2022","2023-04","Serum","L-Allothreonine","C4H9NO3","Posi",120.065,14.34,13.81,0.529999999999999,88.9,55.3,-4.12,119.05775,"CJ0118","Both","Sigma","HMDB0004041"
+"ldlr_serum_apr2022","2023-04","Serum","L-Arabitol","C5H12O5","Nega",151.06128,10.735,10.48,0.254999999999999,81,69.4,0.52,152.06855,"CJ0127","Both","Sigma","HMDB0001851"
+"ldlr_serum_apr2022","2023-04","Serum","L-Arginine","C6H14N4O2","Posi",175.11826,20.053,18.68,1.373,86.2,9.3,-3.98,174.11098,"CJ0129","Both","Sigma","HMDB0000517"
+"ldlr_serum_apr2022","2023-04","Serum","L-Carnitine","C7H15NO3","Posi",162.11232,13.285,14.13,-0.845000000000001,87.9,35.2,-0.86,161.10506,"CJ0357","Both","Sigma","HMDB0000062"
+"ldlr_serum_apr2022","2023-04","Serum","L-Cystine","C6H12N2O4S2","Nega",239.01713,15.502,14.91,0.592000000000001,71.8,46.3,2.35,240.02441,"CJ0191","Both","Sigma","HMDB0000192"
+"ldlr_serum_apr2022","2023-04","Serum","L-Cystine","C6H12N2O4S2","Posi",241.03029,15.273,14.91,0.363,87.5,80.6,-3.56,240.02299,"CJ0191","Both","Sigma","HMDB0000192"
+"ldlr_serum_apr2022","2023-04","Serum","L-Glutamic acid","C5H9NO4","Nega",146.04604,14.079,14.24,-0.161,51.6,58.4,1.06,147.05331,"CJ0281","Both","Sigma","HMDB0000148"
+"ldlr_serum_apr2022","2023-04","Serum","L-Glutamic acid","C5H9NO4","Posi",148.0599,14.353,14.24,0.113,78.9,49.4,-3.42,147.05265,"CJ0281","Both","Sigma","HMDB0000148"
+"ldlr_serum_apr2022","2023-04","Serum","L-Glutamine","C5H10N2O3","Nega",145.06162,14.046,14.28,-0.234,85.4,71.4,-1.66,146.0689,"CJ0282","Both","Sigma","HMDB0000641"
+"ldlr_serum_apr2022","2023-04","Serum","L-Glutamine","C5H10N2O3","Posi",147.0754,15.573,14.28,1.293,72.3,45.5,-7.36,146.06807,"CJ0282","Both","Sigma","HMDB0000641"
+"ldlr_serum_apr2022","2023-04","Serum","L-Gulonolactone","C6H10O6","Nega",177.04043,7.194,7.39,-0.196,76.7,67,-0.18,178.04771,"CJ0360","Both","Sigma","HMDB0003466"
+"ldlr_serum_apr2022","2023-04","Serum","L-Histidine","C6H9N3O2","Nega",154.06245,17.848,17.46,0.387999999999998,82.3,67,1.59,155.06972,"CJ0316","Both","Sigma","HMDB0000177"
+"ldlr_serum_apr2022","2023-04","Serum","L-Histidine","C6H9N3O2","Posi",156.07657,19.891,17.46,2.431,98.6,94.5,-1.19,155.06929,"CJ0316","Both","Sigma","HMDB0000177"
+"ldlr_serum_apr2022","2023-04","Serum","L-Isoleucine","C6H13NO2","Nega",130.08747,10.17,10.41,-0.24,64.7,26.6,0.93,131.09475,"CJ0345","Both","Sigma","HMDB0000172"
+"ldlr_serum_apr2022","2023-04","Serum","L-Isoleucine","C6H13NO2","Posi",132.10135,10.673,10.41,0.263,87.5,9.4,-4.2,131.09408,"CJ0345","Both","Sigma","HMDB0000172"
+"ldlr_serum_apr2022","2023-04","Serum","L-Lactic acid","C3H6O3","Nega",89.0244,7.876,7.2,0.676,95.5,9.8,-0.18,90.03168,"CJ0351","Nega","Sigma","HMDB0000190"
+"ldlr_serum_apr2022","2023-04","Serum","L-Lactic acid","C3H6O3","Nega",89.0244,7.876,6,1.876,95.5,9.8,-0.18,90.03168,"CJ0352","Nega","Sigma","HMDB0000190"
+"ldlr_serum_apr2022","2023-04","Serum","L-Lysine","C6H14N2O2","Posi",147.11175,17.806,18.29,-0.483999999999998,59.5,8,-8.4,146.1043,"CJ0367","Both","Sigma","HMDB0000182"
+"ldlr_serum_apr2022","2023-04","Serum","L-Methionine","C5H11NO2S","Posi",150.05782,11.315,10.8,0.514999999999999,86.2,70.2,-3.42,149.05054,"CJ0386","Both","Sigma","HMDB0000696"
+"ldlr_serum_apr2022","2023-04","Serum","L-Norleucine","C6H13NO2","Posi",132.10169,12.583,9.83,2.753,72.8,8.6,-1.68,131.09441,"CJ0443","Both","Sigma","HMDB0001645"
+"ldlr_serum_apr2022","2023-04","Serum","L-Phenylalanine","C9H11NO2","Nega",164.07185,9.752,9.45,0.302000000000001,86.5,50.4,0.89,165.07913,"CJ0471","Both","Sigma","HMDB0000159"
+"ldlr_serum_apr2022","2023-04","Serum","L-Phenylalanine","C9H11NO2","Posi",166.08501,9.616,9.45,0.166,83.6,32.6,-7.55,165.07773,"CJ0471","Both","Sigma","HMDB0000159"
+"ldlr_serum_apr2022","2023-04","Serum","L-Proline","C5H9NO2","Posi",116.07019,12.809,12.75,0.0589999999999993,93,9.7,-3.64,115.06291,"CJ0489","Both","Sigma","HMDB0000162"
+"ldlr_serum_apr2022","2023-04","Serum","L-Serine","C3H7NO3","Nega",104.03536,14.722,14.32,0.401999999999999,86,9.3,0.37,105.04263,"CJ0531","Both","Sigma","HMDB0000187"
+"ldlr_serum_apr2022","2023-04","Serum","L-Serine","C3H7NO3","Posi",106.04943,8.566,14.32,-5.754,89.3,9.5,-4.18,105.04215,"CJ0531","Both","Sigma","HMDB0000187"
+"ldlr_serum_apr2022","2023-04","Serum","L-Threonic acid","C4H8O5","Nega",135.03015,14.54,NA,NA,52.5,7.6,1.84,136.03742,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","L-Tyrosine","C9H11NO3","Nega",180.06675,11.75,11.5,0.25,85.4,67,0.73,181.07403,"CJ0579","both","Sigma","HMDB0000158"
+"ldlr_serum_apr2022","2023-04","Serum","L-Tyrosine","C9H11NO3","Posi",182.08026,11.844,11.5,0.343999999999999,53,53.9,-4.86,181.07301,"CJ0579","both","Sigma","HMDB0000158"
+"ldlr_serum_apr2022","2023-04","Serum","L-Valine","C5H11NO2","Posi",118.08537,13.331,11.84,1.491,83.7,9.2,-7.56,117.07809,"CJ0592","both","Sigma","HMDB0000883"
+"ldlr_serum_apr2022","2023-04","Serum","Leucine","C6H13NO2","Posi",132.10091,1.037,NA,NA,65.3,8.3,-7.46,131.09365,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","Leucylproline","C11H20N2O3","Posi",229.15295,14.899,NA,NA,85.9,9.3,-7.53,228.14567,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","Linoleic acid","C18H32O2","Nega",279.23301,2.174,2.1,0.0739999999999998,94.6,9.7,0.2,280.24029,"CJ0151","Nega","Sigma","HMDB0000673"
+"ldlr_serum_apr2022","2023-04","Serum","Linoleoyl ethanolamide","C20H37NO2","Posi",324.28752,2.365,NA,NA,72.4,8.6,-5.92,323.28052,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","Lithocholic acid","C24H40O3","Nega",375.29042,2.559,2.4,0.159,54.3,7.7,-0.14,376.29769,"CJ0363","Nega","Sigma","HMDB0000761"
+"ldlr_serum_apr2022","2023-04","Serum","LysoPC(18:1(9Z)/0:0)","C26H52NO7P","Posi",522.35157,4.365,3.742,0.623,60.6,46.3,-6.47,521.34477,"CJ0744","Posi","Lipids","HMDB0002815"
+"ldlr_serum_apr2022","2023-04","Serum","Lysyltyrosine","C15H23N3O4","Posi",310.1742,3.768,NA,NA,67.9,8.4,-5.89,309.16704,"CJ1649",NA,NA,"HMDB0028963"
+"ldlr_serum_apr2022","2023-04","Serum","Maltol","C6H6O3","Posi",127.03836,10.191,NA,NA,65.5,8.3,-4.8,126.03109,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","Maltotriose","C18H32O16","Nega",503.16225,15.497,15.92,-0.423,78.9,68.5,0.97,504.16952,"CJ1113","Posi","DDA","HMDB0001262"
+"ldlr_serum_apr2022","2023-04","Serum","Maltotriose","C18H32O16","Posi",505.17377,15.322,15.92,-0.598000000000001,86.1,53.6,-3.76,504.16714,"CJ1113","Posi","DDA","HMDB0001262"
+"ldlr_serum_apr2022","2023-04","Serum","Mammea E/BB","C24H30O7","Posi",431.20505,2.457,NA,NA,62.7,23.7,-2.89,430.19791,"CJ1656",NA,NA,"HMDB0030814"
+"ldlr_serum_apr2022","2023-04","Serum","Mecarbam","C10H20NO5PS2","Posi",330.05775,9.374,NA,NA,79.2,9,-4.8,329.05047,"CJ1657",NA,NA,"HMDB0031800"
+"ldlr_serum_apr2022","2023-04","Serum","Melleolide M","C23H29ClO7","Posi",453.16565,2.455,2.37,0.085,50.1,7.5,-4,452.15837,"CJ1119","Posi","DDA","HMDB0035068"
+"ldlr_serum_apr2022","2023-04","Serum","Mesylate","CH4O3S","Nega",94.98103,3.679,4.05,-0.371,87.3,9.4,1.97,95.9883,"CJ1121","Nega","DDA","HMDB0240280"
+"ldlr_serum_apr2022","2023-04","Serum","Methacholine","C8H17NO2","Posi",160.13248,15.043,14.64,0.402999999999999,68.1,24.2,-4.56,159.1252,"CJ1665","Posi",NA,"HMDB0015654"
+"ldlr_serum_apr2022","2023-04","Serum","Methanesulfonic acid","CH4O3S","Nega",94.98039,8.543,NA,NA,64.2,8.2,-4.68,95.98767,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","Methionine sulfoxide","C5H11NO3S","Posi",166.05224,14.127,14.01,0.117000000000001,60.6,46.4,-6.08,165.04496,"CJ1122","Posi","DDA","HMDB0002005"
+"ldlr_serum_apr2022","2023-04","Serum","Methylclostebol","C20H29ClO2","Posi",337.18541,8.338,NA,NA,56.3,23,-23.03,336.17787,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","Methylimidazole acetaldehyde","C6H8N2O","Posi",125.07078,17.834,NA,NA,59.4,8,-1.27,124.06351,"CJ1680",NA,NA,"HMDB0004181"
+"ldlr_serum_apr2022","2023-04","Serum","Methylmalonylcarnitine","C11H19NO6","Posi",262.12632,14.068,14.23,-0.162000000000001,67.1,8.4,-8.26,261.11908,"CJ1124","Posi","DDA","HMDB0013133"
+"ldlr_serum_apr2022","2023-04","Serum","Methylpyrazine","C5H6N2","Posi",95.06018,12.096,11.66,0.436,78.1,8.9,-2.08,94.0529,"CJ1125","Posi","DDA","HMDB0033112"
+"ldlr_serum_apr2022","2023-04","Serum","Midodrine","C12H18N2O4","Posi",255.13381,3.861,NA,NA,54.3,7.7,-0.37,254.12656,"CJ1687",NA,NA,"HMDB0014356"
+"ldlr_serum_apr2022","2023-04","Serum","Mono-trans-p-coumaroylmesotartaric acid","C14H14O8","Posi",311.07713,6.306,NA,NA,57.7,7.9,3.2,310.06986,"CJ1692",NA,NA,"HMDB0029783"
+"ldlr_serum_apr2022","2023-04","Serum","Moxonidine","C9H12ClN5O","Posi",242.07623,14.723,NA,NA,54.6,7.7,-17.61,241.06879,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","Myristic acid","C14H28O2","Nega",227.20208,2.46,2.16,0.3,96.6,9.8,1.87,228.20936,"CJ0402","Nega","Sigma","HMDB0000806"
+"ldlr_serum_apr2022","2023-04","Serum","Myristyl sulfate","C14H30O4S","Nega",293.17909,1.901,NA,NA,85.4,36.8,-0.39,294.18636,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","N'-(2-methylquinolin-4-yl)-5-nitro-2-furohydrazide","C15H12N4O4","Nega",311.07791,3.349,NA,NA,54.5,25.6,-2.13,312.08519,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","N'-(4-isopropylphenyl)-3-phenylpropanohydrazide","C18H22N2O","Posi",283.1788,2.464,NA,NA,52.2,7.6,-5.99,282.17152,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","N'-(4-methoxy-1,3-benzothiazol-2-yl)-N,N-dimethyliminoformamide","C11H13N3OS","Posi",236.0822,2.802,NA,NA,57.4,45.8,-12.82,235.07492,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","N'-[4-(3-chloro-4-methylphenyl)-5-methyl-1,3-thiazol-2-yl]-N,N-dimethyliminoformamide","C14H16ClN3S","Posi",294.08742,3.608,NA,NA,54.6,22.9,16.36,293.08014,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","N'2-benzylidene-5-hex-1-ynylfuran-2-carbohydrazide","C18H18N2O2","Posi",295.1504,3.267,NA,NA,54.3,22.9,21.62,294.14319,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","N,N'-Dicyclohexylurea","C13H24N2O","Posi",225.19554,1.153,NA,NA,76.6,57.1,-2.68,224.18826,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","N,N-Diethylethanolamine","C6H15NO","Posi",118.1216,11.692,NA,NA,73.8,8.7,-8.84,117.11433,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","N,N-Diisopropylethylamine (DIPEA)","C8H19N","Posi",130.15798,9.199,NA,NA,77.1,8.9,-8.06,129.15071,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","N,N-Dimethylaniline","C8H11N","Posi",122.09561,7.716,NA,NA,63.9,8.2,-6.69,121.08834,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","N-(1,3-benzodioxol-5-yl)-7-chloroquinolin-4-amine","C16H11ClN2O2","Nega",297.04324,14.263,NA,NA,75,30.2,-1.31,298.05051,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","N-(1H-benzo[d]imidazol-2-yl)guanidine","C8H9N5","Posi",176.09277,7.3,NA,NA,51.3,41.2,-1.84,175.08547,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","N-(2-Methoxybenzyl)-2-[(3R,4S)-3-{[5-(methoxymethyl)-1,2-oxazol-3-yl]methyl}-4-piperidinyl]acetamide","C21H29N3O4","Posi",388.23108,2.465,NA,NA,50.9,22.5,20.73,387.22383,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","N-(2-furylmethyl)-3-thiophenecarboxamide","C10H9NO2S","Nega",206.03047,12.164,NA,NA,50.8,25.3,11.35,207.03775,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","N-(2-hydroxyphenyl)acetamide","C8H9NO2","Posi",152.06967,1.321,NA,NA,72.9,26.1,-6.24,151.06239,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","N-(2-pyridylmethyl)urea","C7H9N3O","Posi",152.08162,1.294,NA,NA,51.3,44.7,-1.4,151.07435,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","N-(5-acetamidopentyl)acetamide","C9H18N2O2","Posi",187.14764,2.491,NA,NA,53.7,22.8,18.35,186.14024,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","N-(9-oxodecyl)acetamide","C12H23NO2","Posi",214.17909,2.589,NA,NA,83.6,9.2,-5.09,213.17179,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","N-({(1S,4S,6S)-6-Isopropyl-3-methyl-4-[2-oxo-2-(1-pyrrolidinyl)ethyl]-2-cyclohexen-1-yl}methyl)-2-pyrazinecarboxamide","C22H32N4O2","Posi",385.26628,2.943,NA,NA,50.6,7.5,16.08,384.2587,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","N-Acetyl-5-aminosalicylic acid","C9H9NO4","Nega",194.04881,3.391,NA,NA,75.8,8.8,15.03,195.05609,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","N-Acetyl-L-cysteine","C5H9NO3S","Nega",162.02314,3.793,NA,NA,63.2,8.2,0.65,163.03042,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","N-Acetyl-L-phenylalanine","C11H13NO3","Nega",206.08219,3.797,2.87,0.927,68.7,47.4,-0.36,207.08947,"CJ0420","Both","Sigma","HMDB0000512"
+"ldlr_serum_apr2022","2023-04","Serum","N-Acetyl-L-tyrosine","C11H13NO4","Nega",222.07728,5.714,7.066,-1.352,77.4,65.2,0.45,223.08456,"CJ1134","Nega","DDA","HMDB0000866"
+"ldlr_serum_apr2022","2023-04","Serum","N-Acetyl-L-tyrosine","C11H13NO4","Posi",224.08944,5.578,7.066,-1.488,86.3,53.8,-9.3,223.08238,"CJ1134","Nega","DDA","HMDB0000866"
+"ldlr_serum_apr2022","2023-04","Serum","N-Acetylglucosamine 6-sulfate","C8H15NO9S","Nega",300.0398,4.355,4.623,-0.268,91.1,75.6,1.08,301.04708,"CJ1129",NA,"DDA","HMDB0000814"
+"ldlr_serum_apr2022","2023-04","Serum","N-Acetylglutamine","C7H12N2O4","Posi",189.0859,7.563,NA,NA,53.9,22.8,-5.32,188.07871,"CJ1703",NA,NA,"HMDB0006029"
+"ldlr_serum_apr2022","2023-04","Serum","N-Acetylglycine","C4H7NO3","Posi",118.04984,11.65,NA,NA,69.1,8.5,-0.29,117.04256,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","N-Acetylhistamine","C7H11N3O","Posi",154.0973,2.991,5.29,-2.299,62.8,46.8,-1.02,153.09006,"CJ1130","Posi","DDA","HMDB0013253"
+"ldlr_serum_apr2022","2023-04","Serum","N-Acetylhistidine","C8H11N3O3","Posi",198.087,15.794,NA,NA,96.2,77.1,-1.7,197.07971,"CJ1706",NA,NA,"HMDB0032055"
+"ldlr_serum_apr2022","2023-04","Serum","N-Acetylneuraminic acid","C11H19NO9","Nega",308.09908,13.671,13.72,-0.0490000000000013,64.8,8.2,1.22,309.10636,"CJ0419","Both","Sigma","HMDB0000230"
+"ldlr_serum_apr2022","2023-04","Serum","N-Acetylputrescine","C6H14N2O","Posi",131.11709,15.781,15.78,0.00100000000000122,72.7,45.8,-6.14,130.10981,"CJ0422","Posi","Sigma","HMDB0002064"
+"ldlr_serum_apr2022","2023-04","Serum","N-Acetyltryptophan","C13H14N2O3","Nega",245.09312,3.824,2.95,0.874,91.4,82.1,-0.18,246.1004,"CJ0425","Both","Sigma","HMDB0013713"
+"ldlr_serum_apr2022","2023-04","Serum","N-Acetyltryptophan","C13H14N2O3","Posi",247.10664,3.177,2.95,0.227,83.7,77.9,-4.33,246.09938,"CJ0425","Both","Sigma","HMDB0013713"
+"ldlr_serum_apr2022","2023-04","Serum","N-Benzyl-2-[(3R,4S)-3-{[5-(methoxymethyl)-1,2-oxazol-3-yl]methyl}-4-piperidinyl]-N-methylacetamide","C21H29N3O3","Posi",372.23632,2.654,NA,NA,52.4,7.6,21.38,371.22883,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","N-Benzylformamide","C8H9NO","Posi",136.07554,9.719,NA,NA,52.8,7.6,-1.18,135.06825,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","N-Ethyl-N-methylcathinone","C12H17NO","Posi",192.13694,9.023,NA,NA,70.4,40.2,-7.06,191.12967,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","N-Formylmethamphetamine","C11H15NO","Posi",178.12143,9.158,NA,NA,71.5,8.6,-6.82,177.11416,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","N-Glycolylneuraminic acid","C11H19NO10","Nega",324.09402,14.307,NA,NA,76.1,67,1.23,325.1013,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","N-Methylhistamine","C6H11N3","Posi",126.1017,20.283,NA,NA,80.4,30.7,-7.01,125.09442,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","N-Methylnicotinamide","C7H8N2O","Posi",137.0701,16.772,17.68,-0.908000000000001,92.9,66.3,-6.15,136.06283,"CJ1141",NA,"DDA","HMDB0003152"
+"ldlr_serum_apr2022","2023-04","Serum","N-Methyltyramine","C9H13NO","Posi",152.10631,1.056,1.071,-0.0149999999999999,63.3,43.1,-4.4,151.09905,"CJ1142",NA,"DDA","HMDB0003633"
+"ldlr_serum_apr2022","2023-04","Serum","N-Nitrosodiethylamine (NDEA)","C4H10N2O","Posi",103.08631,3.077,NA,NA,51.7,7.6,-2.39,102.07907,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","N-Nitrosodimethylamine (NDMA)","C2H6N2O","Posi",75.05514,11.325,NA,NA,71.1,8.6,-2.02,74.04786,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","N-Phenylacetylglutamine","C13H16N2O4","Posi",265.11729,4.113,NA,NA,82.4,31.9,-3.75,264.11002,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","N-a-Acetyl-L-arginine","C8H16N4O3","Posi",217.12878,14.636,14.31,0.325999999999999,78.5,59.7,-3.43,216.1215,"CJ1128","Posi","DDA","HMDB0004620"
+"ldlr_serum_apr2022","2023-04","Serum","N-benzyl-3-(4-chlorophenyl)-4,5-dihydro-5-isoxazolecarboxamide","C17H15ClN2O2","Posi",315.09522,3.723,NA,NA,54.3,7.7,19.07,314.08819,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","N-benzyl-N-isopropyl-2,3-dihydro-1-benzofuran-5-sulfonamide","C18H21NO3S","Posi",332.12491,8.4,NA,NA,65.2,8.3,-19.93,331.11762,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","N-cyclooctylurea","C9H18N2O","Posi",171.14906,5.785,NA,NA,59.1,42.4,-0.78,170.14178,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","N-{(1S,4S)-4-[1-(4-Methoxyphenyl)-3,5-dimethyl-1H-pyrazol-4-yl]-2-cyclopenten-1-yl}-2-thiophenesulfonamide","C21H23N3O3S2","Posi",430.12389,6.312,NA,NA,62.7,8.1,-3.43,429.11661,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","N-{4-[(2R,3R)-3-(Hydroxymethyl)-4-methyl-5-oxo-2-morpholinyl]phenyl}acetamide","C14H18N2O4","Posi",279.13262,9.848,NA,NA,52.1,62.7,-4.79,278.12533,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","N-{[(2R,4S,5R)-5-Vinyl-1-azabicyclo[2.2.2]oct-2-yl]methyl}cyclohexanecarboxamide","C17H28N2O","Posi",277.22524,2.621,NA,NA,61.6,8.1,-7.95,276.21797,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","N1-allyl-3-(4-chlorophenoxy)azetane-1-carboxamide","C13H15ClN2O2","Nega",265.0745,8.228,NA,NA,87.7,9.4,-1.63,266.08177,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","N2-gamma-Glutamylglutamine","C10H17N3O6","Posi",276.11819,14.91,NA,NA,73.3,8.7,0.34,275.11183,"CJ1556",NA,NA,"HMDB0011738"
+"ldlr_serum_apr2022","2023-04","Serum","N2-tetrahydrofuran-2-ylmethyl-4-(4-fluorophenyl)-1,3-thiazol-2-amine","C14H15FN2OS","Posi",279.10017,1.232,NA,NA,51.3,62.5,14.32,278.09289,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","N3-Phenyl-1H-1,2,4-triazole-3,5-diamine","C8H9N5","Posi",176.09281,5.728,NA,NA,58.9,42.4,-1.55,175.08552,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","N4-Acetylcytidine","C11H15N3O6","Nega",284.08863,7.112,NA,NA,87.5,67,-0.62,285.09591,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","N4-Acetylcytidine","C11H15N3O6","Posi",286.10151,6.78,NA,NA,84.2,9.2,-6.51,285.09423,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","N6,N6,N6-Trimethyl-L-lysine","C9H20N2O2","Posi",189.15923,15.817,19.34,-3.523,58.5,42.3,-2.77,188.15196,"CJ0403","Both","Sigma","HMDB0001325"
+"ldlr_serum_apr2022","2023-04","Serum","N6-Me-Adenosine","C11H15N5O4","Posi",282.11759,12.37,NA,NA,80.8,30.9,-7.45,281.11031,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","N8-Acetylspermidine","C9H21N3O","Posi",188.17469,20.959,18.956,2.003,62.5,8.1,-5.61,187.16741,"CJ1132",NA,"DDA","HMDB0002189"
+"ldlr_serum_apr2022","2023-04","Serum","NP-001134","C16H22N4O2","Nega",301.16589,2.385,NA,NA,54,44.1,-3.67,302.17317,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","NP-001162","C16H12O6","Posi",301.07428,1.264,NA,NA,52.8,7.6,12,300.06699,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","NP-001514","C22H41NO7","Posi",432.2945,2.352,NA,NA,52.5,7.6,-1.69,431.28757,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","NP-005166","C30H28O6","Posi",485.19948,2.755,NA,NA,63,8.1,7.86,484.1924,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","NP-005709","C21H18O10","Posi",431.09498,9.254,NA,NA,73.4,8.7,-5.32,430.08771,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","NP-009410","C25H36O5","Posi",417.25803,2.449,NA,NA,71.5,8.6,-13.23,416.25077,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","NP-016455","C11H18N2O4","Nega",241.11943,4.889,NA,NA,54.3,64,0.21,242.12671,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","NP-016455","C11H18N2O4","Posi",243.13439,7.401,NA,NA,66.3,24,1.75,242.12708,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","NP-016516","C16H24O4","Posi",281.17305,2.413,NA,NA,54.2,63.3,-5.48,280.16592,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","NP-016564","C16H20O6","Posi",309.12965,12.238,NA,NA,75.3,8.8,-11.64,308.1224,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","NP-019374","C10H18O4","Nega",201.1134,3.242,NA,NA,66.3,8.3,0.82,202.12067,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","NP-020020","C7H12O5","Posi",177.07676,1.693,NA,NA,58.1,37.4,5.72,176.06948,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","NP-020206","C11H16O4","Posi",213.11193,8.69,NA,NA,54.3,7.7,-1.02,212.10464,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","NP-020400","C12H18O5","Posi",265.10403,11.86,NA,NA,69.3,8.5,-2.23,242.11488,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","NP-021018","C12H18O4","Posi",227.12699,11.913,NA,NA,51.2,44.6,-2.81,226.11987,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","NP-021114","C16H26O6","Nega",313.16358,7.044,NA,NA,51.5,52.1,-6.63,314.17086,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","NP-021698","C11H13NO4","Nega",222.0773,3.033,NA,NA,51.7,63.5,0.53,223.08458,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","NP-021733","C7H13NO2","Posi",144.10117,19.555,NA,NA,51.7,7.6,-4.34,143.09401,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","NP-022068","C8H12O5","Nega",187.06259,12.143,NA,NA,51.6,7.6,7.43,188.06987,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","Nelarabine","C11H15N5O5","Nega",296.10006,9.259,8.39,0.869,78.3,32.3,0.07,297.10734,"CJ1136","Posi","DDA","HMDB0015401"
+"ldlr_serum_apr2022","2023-04","Serum","Nelarabine","C11H15N5O5","Posi",298.1131,9.172,8.39,0.782,83.2,9.2,-4.99,297.10583,"CJ1136","Posi","DDA","HMDB0015401"
+"ldlr_serum_apr2022","2023-04","Serum","Nervonic acid","C24H46O2","Nega",365.34242,2.103,2.01,0.0930000000000004,64,8.2,-0.23,366.3497,"CJ0152","Nega","Sigma","HMDB0002368"
+"ldlr_serum_apr2022","2023-04","Serum","Netilmicin","C21H41N5O7","Posi",476.30328,4.042,NA,NA,72.1,8.6,-9.68,475.296,"CJ1717",NA,NA,"HMDB0015090"
+"ldlr_serum_apr2022","2023-04","Serum","Neuraminic acid","C9H17NO8","Posi",268.10212,8.511,8.147,0.363999999999999,82.5,32,-2.49,267.09475,"CJ1137",NA,"DDA","HMDB0000830"
+"ldlr_serum_apr2022","2023-04","Serum","Niacinamide","C6H6N2O","Posi",123.05515,3.042,3.52,-0.478,86.8,62,-1.64,122.04781,"CJ0431","Both","Sigma","HMDB0001406"
+"ldlr_serum_apr2022","2023-04","Serum","Nicotinamide","C6H6N2O","Posi",123.05459,1.079,NA,NA,74.4,54.1,-5.73,122.04731,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","Nicotinic acid","C6H5NO2","Nega",122.02491,14.268,8.85,5.418,55.8,7.8,1.27,123.03218,"CJ0434","nega","STD","HMDB0001488"
+"ldlr_serum_apr2022","2023-04","Serum","Nicotinuric acid","C8H8N2O3","Posi",181.0602,3.806,NA,NA,55.6,23,-3.15,180.05292,"CJ1721",NA,NA,"HMDB0003269"
+"ldlr_serum_apr2022","2023-04","Serum","Nitrosoheptamethyleneimine","C7H14N2O","Posi",143.11728,15.175,NA,NA,65.3,43.4,-4.29,142.11,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","Norketamine","C12H14ClNO","Posi",224.08303,2.815,NA,NA,86.7,82.7,-2.86,223.07575,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","O1-(2,6-dichlorobenzyl)-4-methoxybenzene-1-carbohydroximamide","C15H14Cl2N2O2","Posi",325.05186,9.883,NA,NA,55,7.7,4.63,324.04473,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","O1-(2-thienylcarbonyl)-2-({5-[4-(tert-butyl)phenyl]-4-methyl-4H-1,2,4-triazol-3-yl}thio)ethanehydroximamide","C20H23N5O2S2","Posi",430.12499,8.769,NA,NA,52.1,41.3,-27.05,429.11771,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","O6-CM-dG","C12H15N5O6","Posi",326.10717,8.46,NA,NA,75,8.8,-7.25,325.09987,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","Octadeca-2,4,6,8-tetraenoic acid","C18H28O2","Posi",277.2151,2.147,2.11,0.0369999999999999,73.6,8.7,-4.04,276.20781,"CJ0662","Nega","fatty acids","HMDB0255898"
+"ldlr_serum_apr2022","2023-04","Serum","Octadecanamide","C18H37NO","Posi",284.29331,2.326,2.26,0.0660000000000003,72.8,62.4,-5.12,283.28606,"CJ1164","Posi","DDA","HMDB0034146"
+"ldlr_serum_apr2022","2023-04","Serum","Octyl decyl phthalate","C26H42O4","Posi",419.31198,3.728,NA,NA,85.4,9.3,-8.63,418.3047,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","Octyl hydrogen phthalate","C16H22O4","Posi",279.15772,1.12,NA,NA,75.6,72,-4.91,278.15044,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","Oleamide","C18H35NO","Posi",282.27795,1.966,2.29,-0.324,97.9,97.9,-3.96,281.27075,"CJ1145","Posi","DDA","HMDB0002117"
+"ldlr_serum_apr2022","2023-04","Serum","Oleoyl glycine","C20H37NO3","Posi",340.28295,2.306,NA,NA,60.6,42.7,-1.19,339.27694,"CJ1725",NA,NA,"HMDB0013631"
+"ldlr_serum_apr2022","2023-04","Serum","Ornithine","C5H12N2O2","Nega",131.08281,14.88,17.79,-2.91,75.3,8.8,1.61,132.09009,"CJ0364","Both","Sigma","HMDB0000214"
+"ldlr_serum_apr2022","2023-04","Serum","Ornithine","C5H12N2O2","Posi",133.0962,18.06,17.79,0.27,68.6,8.4,-7,132.08895,"CJ0364","Both","Sigma","HMDB0000214"
+"ldlr_serum_apr2022","2023-04","Serum","Orotic acid","C5H4N2O4","Nega",155.00983,7.116,8.23,-1.114,52.3,7.6,0.02,156.01711,"CJ0454","Both","Sigma","HMDB0000226"
+"ldlr_serum_apr2022","2023-04","Serum","Oxoamide","C10H12N2O2","Nega",191.08298,8.412,NA,NA,50.1,7.5,1.98,192.09026,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","PC(16:0/16:0)","C40H80NO8P","Posi",734.56744,3.092,2.13,0.962,83.5,9.2,-2.64,733.56022,"CJ0234","Posi","Sigma","HMDB0000564"
+"ldlr_serum_apr2022","2023-04","Serum","PEG n5","C10H22O6","Posi",239.1474,3.899,NA,NA,82.3,9.1,-6.53,238.14008,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","Palmitic acid","C16H32O2","Nega",255.23242,8.266,2.1,6.166,98.8,9.9,-2.08,256.2397,"CJ0148","Nega","Sigma","HMDB0000220"
+"ldlr_serum_apr2022","2023-04","Serum","Palmitic amide","C16H33NO","Posi",256.26279,1.906,2.31,-0.404,93.3,67.8,-2.75,255.25551,"CJ1147","Posi","DDA","HMDB0012273"
+"ldlr_serum_apr2022","2023-04","Serum","Palmitoleic acid","C16H30O2","Nega",253.21759,2.195,2.21,-0.0150000000000001,92.1,9.6,1.14,254.22487,"CJ0463","Both","Sigma","HMDB0003229"
+"ldlr_serum_apr2022","2023-04","Serum","Palmitoleic acid","C16H30O2","Posi",255.23122,2.155,2.21,-0.0550000000000002,73.6,8.7,3.55,254.22548,"CJ0463","Both","Sigma","HMDB0003229"
+"ldlr_serum_apr2022","2023-04","Serum","Palmitoyl sphingomyelin","C39H79N2O6P","Posi",703.57108,7.994,NA,NA,93.5,9.7,-5.36,702.56381,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","Paracetamol","C8H9NO2","Posi",152.06955,16.996,NA,NA,60.4,8,-7.02,151.06227,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","Pelargonic acid","C9H18O2","Nega",157.12344,2.494,3.67,-1.176,73.7,8.7,0.22,158.13071,"CJ0441","Nega","Sigma","HMDB0000847"
+"ldlr_serum_apr2022","2023-04","Serum","Pentadecanoic acid","C15H30O2","Nega",241.21749,2.205,2.12,0.085,83.1,9.2,0.79,242.22477,"CJ0655","Nega","fatty acids","HMDB0000826"
+"ldlr_serum_apr2022","2023-04","Serum","Perfluoro-1-butanesulfonic acid (PFBS)","C4HF9O3S","Nega",298.94268,1.85,NA,NA,93.1,50.2,-1.04,299.94996,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","Permethrin","C21H20Cl2O3","Posi",391.0898,2.374,NA,NA,82.5,9.1,9.52,390.08266,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","Phenol sulphate","C6H6O4S","Nega",172.99147,1.97,1.91,0.0600000000000001,80.3,9,0.39,173.99875,"CJ1149","Nega","DDA","HMDB0060015"
+"ldlr_serum_apr2022","2023-04","Serum","Phenylacetyl fentanyl","C27H30N2O","Posi",399.24832,2.342,NA,NA,51.7,22.6,13.12,398.24104,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","Phenylacetylglycine","C10H11NO3","Nega",192.067,5.702,3.71,1.992,88.4,9.4,2,193.07428,"CJ1150","Posi","DDA","HMDB0000821"
+"ldlr_serum_apr2022","2023-04","Serum","Phenylacetylglycine","C10H11NO3","Posi",194.08315,5.926,3.71,2.216,83.3,9.2,10.26,193.07587,"CJ1150","Posi","DDA","HMDB0000821"
+"ldlr_serum_apr2022","2023-04","Serum","Pipecolic acid","C6H11NO2","Posi",130.08589,19.966,NA,NA,79.5,9,-4.27,129.07843,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","Piperonylonitrile","C8H5NO2","Posi",148.04158,11.799,NA,NA,50.5,7.5,15.45,147.0343,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","Pirimicarb","C11H18N4O2","Posi",239.14937,16.061,NA,NA,52,44.8,-3.71,238.14209,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","Progesterone","C21H30O2","Posi",337.20944,3.657,NA,NA,50.9,7.5,-15.13,314.21983,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","Proline","C5H9NO2","Posi",116.06997,19.59,NA,NA,92.3,9.6,-4.47,115.06281,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","Proline betaine","C7H13NO2","Posi",144.10134,12.104,10.77,1.334,87.5,9.4,-3.96,143.09406,"CJ1156","Posi","DDA","HMDB0004827"
+"ldlr_serum_apr2022","2023-04","Serum","Prolylleucine","C11H20N2O3","Posi",229.15299,17.285,NA,NA,73.2,8.7,-7.39,228.14571,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","Propionylcarnitine","C10H19NO4","Posi",218.13794,13.48,10.58,2.9,84.3,52.6,-1.4,217.1311,"CJ0639","Posi","Carnitines","HMDB0000824"
+"ldlr_serum_apr2022","2023-04","Serum","Prostaglandin D2","C20H32O5","Nega",351.22057,1.888,2.64,-0.752,54.6,7.7,8.16,352.22785,"CJ1157","Nega","DDA","HMDB0001403"
+"ldlr_serum_apr2022","2023-04","Serum","Psilocybin","C12H17N2O4P","Nega",283.08209,16.711,NA,NA,66,8.3,-11.35,284.08937,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","Pyridoxamine 5-phosphate","C8H13N2O5P","Posi",249.06016,9.633,NA,NA,56.3,7.8,-13.41,248.05288,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","Pyrocatechol sulfate","C6H6O5S","Nega",188.9867,2.334,2.1425,0.1915,70.1,8.5,2.02,189.99398,"CJ1042",NA,"DDA","HMDB0059724"
+"ldlr_serum_apr2022","2023-04","Serum","Pyroglutamic acid","C5H7NO3","Nega",128.03567,14.654,14.24,0.414,72.4,8.6,2.73,129.04295,"CJ0503","not detected in both","Sigma","HMDB0000267"
+"ldlr_serum_apr2022","2023-04","Serum","Pyroglutamic acid","C5H7NO3","Posi",130.04942,14.664,14.24,0.423999999999999,81.8,9.1,-3.89,129.04209,"CJ0503","not detected in both","Sigma","HMDB0000267"
+"ldlr_serum_apr2022","2023-04","Serum","Pyruvaldehyde","C3H4O2","Posi",73.02829,14.818,15.14,-0.322000000000001,62.4,8.1,-2.94,72.02092,"CJ0506","Nega","Sigma","HMDB0001167"
+"ldlr_serum_apr2022","2023-04","Serum","Pyruvic acid","C3H4O3","Nega",87.00875,3.684,3.77,-0.0859999999999999,93,9.6,-0.19,88.01603,"CJ0505","Nega","Sigma","HMDB0000243"
+"ldlr_serum_apr2022","2023-04","Serum","Quinaldic acid","C10H7NO2","Posi",174.05428,3.503,2.89,0.613,58.1,37.4,-7.14,173.04644,"CJ0039","Both","Sigma","HMDB0000842"
+"ldlr_serum_apr2022","2023-04","Serum","Quinoline","C9H7N","Posi",130.06482,3.728,NA,NA,93,66.5,-2.36,129.05754,"CJ0509","not detected in both","Sigma","HMDB0033731"
+"ldlr_serum_apr2022","2023-04","Serum","Rexamino","C9H10N2O","Posi",163.08605,3.593,NA,NA,55.8,7.8,-3.18,162.0788,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","Riboflavin","C17H20N4O6","Nega",375.13148,8.62,8.47,0.149999999999999,67.8,26.9,1.26,376.13876,"CJ0517","Both","Sigma","HMDB0000244"
+"ldlr_serum_apr2022","2023-04","Serum","S-Adenosylmethionine","C15H22N6O5S","Posi",399.1431,17.669,16.26,1.409,72.8,45.9,-3.56,398.13582,"CJ0523","Posi","Sigma","HMDB0001185"
+"ldlr_serum_apr2022","2023-04","Serum","SM(d18:1/16:0)","C39H79N2O6P","Posi",703.56973,4.36,3.693,0.667,85.4,9.3,-7.31,702.56244,"CJ0923","Posi","Lipids","HMDB0010169"
+"ldlr_serum_apr2022","2023-04","Serum","SNH","C13H20N6O6","Posi",357.14546,1.881,NA,NA,65.8,8.3,-17.53,356.13819,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","Saccharin","C7H5NO3S","Nega",181.9918,2.126,NA,NA,92.6,56.8,0.32,182.99907,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","Salsolinol","C10H13NO2","Posi",180.10177,3.133,NA,NA,50.7,7.5,-0.78,179.09449,"CJ0526","not detected in both","Sigma","HMDB0042012"
+"ldlr_serum_apr2022","2023-04","Serum","Sorbic acid","C6H8O2","Posi",113.05904,9.979,NA,NA,74.4,27,-5.97,112.05176,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","Spermidine","C7H19N3","Posi",146.16485,14.087,13.97,0.116999999999999,80.5,50.4,-2.23,145.15757,"CJ0538","Posi","Sigma","HMDB0001257"
+"ldlr_serum_apr2022","2023-04","Serum","Spermine","C10H26N4","Posi",203.22205,11.54,6.95,4.59,94.3,82,-4.55,202.21483,"CJ0539","Nega","Sigma","HMDB0001256"
+"ldlr_serum_apr2022","2023-04","Serum","Spironolactone","C24H32O4S","Posi",417.21467,2.53,NA,NA,63.1,8.2,12.59,416.20737,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","Stearic acid","C18H36O2","Nega",283.26362,1.849,2.07,-0.221,95.6,9.8,-2.23,284.2709,"CJ0149","Nega","Sigma","HMDB0000827"
+"ldlr_serum_apr2022","2023-04","Serum","Suberic acid","C8H14O4","Nega",173.08223,12.278,12.46,-0.182,84.3,9.2,1.71,174.08951,"CJ0544","Both","Sigma","HMDB0000893"
+"ldlr_serum_apr2022","2023-04","Serum","Sulfamethazine","C12H14N4O2S","Posi",279.08944,8.247,NA,NA,52.9,44.9,-5.69,278.08217,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","Sulfoglycolithocholate(2-)","C26H43NO7S","Nega",512.2682,2.48,2.71,-0.23,69.3,8.5,-1.06,513.27548,"CJ0605",NA,"Bile acids","HMDB0062801"
+"ldlr_serum_apr2022","2023-04","Serum","TQH","C15H24N6O6","Posi",385.1767,1.862,NA,NA,60.9,8,-16.43,384.16942,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","Taurine","C2H7NO3S","Nega",124.00746,12.092,10.55,1.542,89.9,9.5,0.58,125.01474,"CJ0550","Both","Sigma","HMDB0000251"
+"ldlr_serum_apr2022","2023-04","Serum","Taurine","C2H7NO3S","Posi",126.02142,4.141,10.55,-6.409,80.6,30.8,-4.16,125.01414,"CJ0550","Both","Sigma","HMDB0000251"
+"ldlr_serum_apr2022","2023-04","Serum","Taurocholic acid","C26H45NO7S","Posi",516.29518,2.667,2.71,-0.0430000000000001,70.2,48.3,-6.81,515.28816,"CJ0611",NA,"Bile acids","HMDB0000036"
+"ldlr_serum_apr2022","2023-04","Serum","Taurodeoxycholic acid","C26H45NO6S","Nega",498.28947,3.707,3.08,0.627,82.8,70.2,-0.03,499.29674,"CJ0613",NA,"Bile acids","HMDB0000896"
+"ldlr_serum_apr2022","2023-04","Serum","Taurodeoxycholic acid","C26H45NO6S","Posi",500.3009,2.545,3.08,-0.535,68.4,43.9,-6.1,499.29372,"CJ0613",NA,"Bile acids","HMDB0000896"
+"ldlr_serum_apr2022","2023-04","Serum","Testosterone enanthate","C26H40O3","Posi",401.30322,2.371,NA,NA,68.2,8.4,-4.19,400.29607,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","Tetracaine","C15H24N2O2","Posi",265.19015,3.365,NA,NA,96.6,87.5,-3.43,264.18287,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","Tetradecanedioic acid","C14H26O4","Nega",257.17606,3.001,3.0225,-0.0215000000000001,83.7,9.2,0.88,258.18334,"CJ1165",NA,"DDA","HMDB0000872"
+"ldlr_serum_apr2022","2023-04","Serum","Tetradecenoic acid","C14H26O2","Posi",227.19968,2.345,2.17,0.175,74.7,8.7,-1.25,226.193,"CJ0653","Nega","fatty acids","HMDB0302697"
+"ldlr_serum_apr2022","2023-04","Serum","Tetrahydrocortisol","C21H34O5","Posi",367.24608,2.405,2.89,-0.485,76.5,28.3,-4.9,366.23883,"CJ0049","Nega","Sigma","HMDB0000949"
+"ldlr_serum_apr2022","2023-04","Serum","Thymine","C5H6N2O2","Posi",127.04977,5.923,3.62,2.303,89.7,55.8,-2.07,126.04267,"CJ0564","Both","Sigma","HMDB0000262"
+"ldlr_serum_apr2022","2023-04","Serum","Traumatic acid","C12H20O4","Posi",229.14299,2.534,2.978,-0.444,53.4,7.7,-1.87,228.13573,"CJ1166","Nega","DDA","HMDB0000933"
+"ldlr_serum_apr2022","2023-04","Serum","Triazoxide","C10H6ClN5O","Posi",248.03495,5.428,NA,NA,73.5,8.7,6.4,247.02767,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","Tridecanoic acid","C13H26O2","Nega",213.18603,2.259,2.17,0.089,61.8,8.1,0.13,214.19331,"CJ0703","Nega","fatty acids","HMDB0000910"
+"ldlr_serum_apr2022","2023-04","Serum","Triethanolamine","C6H15NO3","Posi",150.11224,17.805,NA,NA,90.8,76.8,-1.54,149.10496,"CJ1822",NA,NA,"HMDB0032538"
+"ldlr_serum_apr2022","2023-04","Serum","Trigonelline","C7H7NO2","Posi",138.05205,12.823,11.52,1.303,85.6,60.5,-22.98,137.04453,"CJ0574","Both","Sigma","HMDB0000875"
+"ldlr_serum_apr2022","2023-04","Serum","Triisopropanolamine","C9H21NO3","Posi",192.15853,3.734,NA,NA,86.7,82.8,-4.54,191.15128,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","Trimethylamine N-oxide","C3H9NO","Posi",76.07519,13.954,NA,NA,51.6,7.6,-6.59,75.06792,"CJ1826",NA,NA,"HMDB0000925"
+"ldlr_serum_apr2022","2023-04","Serum","Trimethylaminoacetone","C6H13NO","Posi",116.10675,10.447,10.77,-0.323,72,45.4,-2.88,115.09938,"CJ1168","Posi","DDA","HMDB0012296"
+"ldlr_serum_apr2022","2023-04","Serum","Trimethylpyrazine","C7H10N2","Posi",123.09078,1.036,1.22,-0.184,52,44.8,-7.29,122.08351,"CJ1169","Posi","DDA","HMDB0031844"
+"ldlr_serum_apr2022","2023-04","Serum","Triphenylphosphine oxide","C18H15OP","Posi",279.09232,1.081,NA,NA,88,80.9,-3.63,278.08504,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","Tris(2-butoxyethyl) phosphate","C18H39O7P","Posi",399.24381,2.58,NA,NA,69.1,8.5,-17.09,398.23653,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","Uracil","C4H4N2O2","Nega",111.02023,4.664,4.12,0.544,80.7,9,2.02,112.0275,"CJ0580","both","Sigma","HMDB0000300"
+"ldlr_serum_apr2022","2023-04","Serum","Uracil","C4H4N2O2","Posi",113.03402,4.095,4.12,-0.0250000000000004,89,55.4,-3.85,112.02685,"CJ0580","both","Sigma","HMDB0000300"
+"ldlr_serum_apr2022","2023-04","Serum","Uric acid","C5H4N4O3","Nega",167.02129,9.775,11.76,-1.985,89.3,79.1,1.37,168.02857,"CJ0581","Posi","Sigma","HMDB0000289"
+"ldlr_serum_apr2022","2023-04","Serum","Uridine","C9H12N2O6","Nega",243.06634,8.353,6.98,1.373,83.6,67,16.73,244.07362,"CJ0583","Both","Sigma","HMDB0000296"
+"ldlr_serum_apr2022","2023-04","Serum","Urocanic acid","C6H6N2O2","Nega",137.0361,16.019,9.31,6.709,56.2,7.8,3.23,138.04337,"CJ0590","Both","Sigma","HMDB0000301"
+"ldlr_serum_apr2022","2023-04","Serum","Urocanic acid","C6H6N2O2","Posi",139.04947,8.555,9.31,-0.755000000000001,71.8,8.6,-5.34,138.04219,"CJ0590","Both","Sigma","HMDB0000301"
+"ldlr_serum_apr2022","2023-04","Serum","Valeric acid","C5H10O2","Nega",101.06096,3.808,12.75,-8.942,57.9,7.9,1.5,102.06823,"CJ0467","Nega","Sigma","HMDB0000892"
+"ldlr_serum_apr2022","2023-04","Serum","Valpromide","C8H17NO","Posi",144.13822,20.859,NA,NA,64.4,8.2,-0.48,143.13095,"CJ1841",NA,NA,"HMDB0259756"
+"ldlr_serum_apr2022","2023-04","Serum","Valylproline","C10H18N2O3","Posi",215.13789,12.747,12.36,0.387,52.5,7.6,-5.29,214.13061,"CJ1155","Posi","DDA","HMDB0029135"
+"ldlr_serum_apr2022","2023-04","Serum","Vanilloylglycine","C10H11NO5","Posi",226.07057,4.05,NA,NA,52.3,36.3,-1.88,225.0633,"CJ1844",NA,NA,"HMDB0060026"
+"ldlr_serum_apr2022","2023-04","Serum","Xanthine","C5H4N4O2","Nega",151.02623,8.848,8.98,-0.132,82.8,9.1,0.51,152.0335,"CJ0595","Both","Sigma","HMDB0000292"
+"ldlr_serum_apr2022","2023-04","Serum","Xanthine","C5H4N4O2","Posi",153.04018,11.547,8.98,2.567,82.3,51.4,-3.42,152.03291,"CJ0595","Both","Sigma","HMDB0000292"
+"ldlr_serum_apr2022","2023-04","Serum","Xanthurenic acid","C10H7NO4","Nega",204.03028,8.888,3.74,5.148,56.9,25.8,0.23,205.03755,"CJ0598","Nega","Sigma","HMDB0000881"
+"ldlr_serum_apr2022","2023-04","Serum","Xanthurenic acid","C10H7NO4","Posi",206.04393,4.706,3.74,0.966,61.7,38.1,-4.34,205.03662,"CJ0598","Nega","Sigma","HMDB0000881"
+"ldlr_serum_apr2022","2023-04","Serum","[4]-Gingerol","C15H22O4","Nega",265.14703,4.674,3.32,1.354,57.9,7.9,9.37,266.1543,"CJ0999",NA,"DDA","HMDB0302125"
+"ldlr_serum_apr2022","2023-04","Serum","all-cis-4,7,10,13,16-Docosapentaenoic acid","C22H34O2","Nega",329.24864,2.114,NA,NA,78.6,48.2,0.1,330.25591,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","alpha-D-Glucose","C6H12O6","Nega",179.05585,13.918,12.69,1.228,67.6,45.5,-1.43,180.06313,"CJ0277","Both","Sigma","HMDB0000122"
+"ldlr_serum_apr2022","2023-04","Serum","aminoisophthalic acid isomer","C8H7NO4","Nega",180.03142,3.76,NA,NA,84.1,9.2,6.58,181.0387,"CJ1370",NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","beta-Alanine","C3H7NO2","Nega",88.04026,13.616,14.32,-0.704000000000001,89.6,9.5,-1.58,89.04754,"CJ0138","Both","Sigma","HMDB0000056"
+"ldlr_serum_apr2022","2023-04","Serum","beta-Alanine","C3H7NO2","Posi",90.05472,14.373,14.32,0.052999999999999,77.3,8.9,-2.6,89.04745,"CJ0138","Both","Sigma","HMDB0000056"
+"ldlr_serum_apr2022","2023-04","Serum","beta-Damascenone","C13H18O","Posi",191.14202,2.331,2.27,0.0609999999999999,66.2,47.4,-5.09,190.1348,"CJ1040","Posi","DDA","HMDB0013804"
+"ldlr_serum_apr2022","2023-04","Serum","bicyclo[2.2.2]oct-2-en-1-yl 4-methylbenzene-1-sulfonate","C15H18O3S","Posi",279.09979,1.086,NA,NA,68,24.2,-18.53,278.09251,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","c19:4","C19H30O2","Posi",291.23033,2.377,2.11,0.267,54.9,22.9,-6.17,290.22279,"CJ0667","Nega","fatty acids",NA
+"ldlr_serum_apr2022","2023-04","Serum","cetrimonium","C19H41N","Posi",284.32916,8.304,8.16,0.144,93.6,9.7,-7.11,283.32189,"CJ1043","Posi","DDA",NA
+"ldlr_serum_apr2022","2023-04","Serum","cis-2-Methylaconitate","C7H8O6","Nega",187.02529,14.952,14.37,0.582000000000001,66.6,45.4,2.52,188.03256,"CJ1045","Nega","DDA","HMDB0006357"
+"ldlr_serum_apr2022","2023-04","Serum","cis-5-Tetradecenoylcarnitine","C21H39NO4","Posi",370.29292,3.825,3.75,0.0750000000000002,59.7,8,-6.12,369.28565,"CJ0623","Posi","Carnitines","HMDB0002014"
+"ldlr_serum_apr2022","2023-04","Serum","clonazolam","C17H12ClN5O2","Posi",354.07582,13.754,13.37,0.384,54,7.7,1.67,353.06854,"CJ1047","Posi","DDA",NA
+"ldlr_serum_apr2022","2023-04","Serum","corey pg-lactone diol isomer","C15H24O4","Posi",269.17416,2.411,NA,NA,60.8,23.5,-1.68,268.16701,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","dihete isomer","C20H32O4","Posi",337.23539,3.484,NA,NA,69.8,24.4,-5.65,336.22816,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","diketo-metribuzin isomer","C7H12N4O2","Posi",185.10297,6.298,NA,NA,55.8,45.5,-2.03,184.09565,"CJ1486",NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","ethyl 2-amino-8h-indeno[2,1-b]thiophene-3-carboxylate isomer","C14H13NO2S","Posi",260.07308,15.1,NA,NA,54.2,45.2,-3.46,259.0658,"CJ1522",NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","ethyl 2-cyano-3-[(2-oxoazepan-3-yl)amino]acrylate isomer","C12H17N3O3","Posi",252.1362,2.499,NA,NA,57.4,37.2,7.72,251.12893,"CJ1523",NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","ethyl 2-nitro-3-(4-nitrophenyl)acrylate","C11H10N2O6","Nega",265.0504,3.797,NA,NA,77,8.8,14.23,266.05767,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","ethyl 3-[(1-benzyl-4-piperidyl)amino]-2-cyanoacrylate","C18H23N3O2","Nega",312.17197,2.109,NA,NA,60.5,65.2,0.7,313.17925,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","ethyl 3-cyano-2-[(2-{[5-(2-furyl)-1,3,4-oxadiazol-2-yl]sulfanyl}acetyl)amino]-4,7-dihydrothieno[2,3-c]pyridine-6(5H)-carboxylate","C19H17N5O5S2","Posi",460.07273,11.946,NA,NA,50.7,62.3,-3.6,459.06546,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","ethyl 5-[3-(dimethylamino)allanoyl]-2-phenyl-1,3-thiazole-4-carboxylate","C17H18N2O3S","Posi",331.10964,15.112,NA,NA,69.8,8.5,-4.38,330.10237,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","ethyl serine isomer","C5H11NO3","Posi",134.08071,11.973,NA,NA,81.5,9.1,-1.99,133.07363,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","fructosyl-glycine isomer","C8H15NO7","Posi",238.09253,10.174,NA,NA,50.2,22.5,1.91,237.0853,"CJ1538",NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","gamma-Aminobutyric acid","C5H11NO2","Posi",118.08541,9.413,10.16,-0.747,89.4,9.5,-7.24,117.07813,"CJ0389","Posi","Sigma","HMDB0002141"
+"ldlr_serum_apr2022","2023-04","Serum","gamma-Glutamyltyrosine","C14H18N2O6","Posi",311.1249,1.851,NA,NA,70.8,8.5,3.68,310.11763,"CJ1546",NA,NA,"HMDB0011741"
+"ldlr_serum_apr2022","2023-04","Serum","gamma-Linolenic acid","C18H30O2","Nega",277.21739,2.182,2.08,0.102,82.3,9.1,0.29,278.22466,"CJ0269","Nega","Sigma","HMDB0003073"
+"ldlr_serum_apr2022","2023-04","Serum","gamma-Linolenic acid","C18H30O2","Posi",279.23055,2.196,2.08,0.116,62.5,46.7,-4.86,278.22323,"CJ0269","Nega","Sigma","HMDB0003073"
+"ldlr_serum_apr2022","2023-04","Serum","glu gly isomer","C7H12N2O5","Posi",205.08091,10.146,NA,NA,60.3,23.4,-7.14,204.07316,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","glycodehydrocholate","C26H37NO6","Posi",460.26775,2.452,2.38,0.0720000000000001,50,7.5,-3.52,459.26047,"CJ0603",NA,"Bile acids",NA
+"ldlr_serum_apr2022","2023-04","Serum","hydroxytetradecadienoyl-carnitine isomer","C21H37NO5","Posi",384.27396,2.36,NA,NA,80,9,-1.25,383.26669,"CJ1598",NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","hydroxyvalerylglycine","C7H13NO4","Posi",176.09278,2.861,2.58,0.281,60.8,42.7,5.77,175.08547,"CJ1094",NA,"DDA","HMDB0094717"
+"ldlr_serum_apr2022","2023-04","Serum","indole-quinone isomer","C8H5NO2","Posi",148.0387,2.293,NA,NA,72.8,43.4,-4.13,147.03142,"CJ1607",NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","indoline-2-carboxylic acid","C9H9NO2","Posi",164.0702,9.524,NA,NA,79.6,49.8,-2.88,163.06286,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","irgafos 168","C42H63O3P","Posi",647.45565,2.281,2.24,0.0409999999999999,66.1,24,-4.82,646.44837,"CJ1100","Posi","DDA",NA
+"ldlr_serum_apr2022","2023-04","Serum","irganox 330","C54H78O3","Nega",773.58911,2.229,2.14,0.089,58.4,44.3,1.67,774.59639,"CJ1101","Nega","DDA",NA
+"ldlr_serum_apr2022","2023-04","Serum","isovaleroylglycine isomer","C7H13NO3","Nega",158.08254,5.796,NA,NA,86.2,37.3,1.75,159.08982,"CJ1620",NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","laurolactam","C12H23NO","Posi",198.18417,2.333,2.26,0.0730000000000004,89.4,9.5,-5.37,197.17691,"CJ1110","Posi","DDA",NA
+"ldlr_serum_apr2022","2023-04","Serum","mannosyl-glycerate","C9H16O9","Posi",269.08683,9.186,NA,NA,53.7,22.8,0.47,268.07956,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","mescaline isomer","C11H17NO3","Posi",212.12667,2.723,NA,NA,72,8.6,-6.6,211.11945,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","methyl 2-acetyl-3-oxodecanoate isomer","C13H22O4","Posi",243.15817,3.61,NA,NA,50.1,7.5,-4.93,242.15061,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","methyl 3-(ethylthio)-4-hydroxyimino-6,6-dimethyl-4,5,6,7-tetrahydrobenzo[c]thiophene-1-carboxylate","C14H19NO3S2","Posi",314.08362,12.552,NA,NA,71.1,8.6,-13.74,313.07633,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","methyl farnesoate isomer","C16H26O2","Posi",251.19922,3.481,NA,NA,65.8,57.3,0.47,250.1934,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","myo-Inositol","C6H12O6","Nega",179.05625,15.233,15.11,0.123000000000001,66.5,45.3,0.75,180.06352,"CJ0401","Nega","Sigma","HMDB0000211"
+"ldlr_serum_apr2022","2023-04","Serum","n-formylanthranilic acid isomer","C8H7NO3","Posi",166.05056,13.942,NA,NA,60.6,46.4,4.16,165.04328,"CJ1718",NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","o-Toluidine","C7H9N","Posi",108.08038,1.068,NA,NA,66.2,43.6,-2.89,107.07319,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","oleoyl ethyl amide","C20H39NO","Posi",310.30841,2.341,NA,NA,69.9,8.5,-6.46,309.30117,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","p-Acetaminobenzaldehyde","C9H9NO2","Posi",164.07042,4.028,3.534,0.494,65.1,23.9,-1.83,163.06303,"CJ1023",NA,"DDA","HMDB0341370"
+"ldlr_serum_apr2022","2023-04","Serum","pentalenic acid","C15H22O3","Posi",251.16327,2.392,2.351,0.0409999999999999,75.2,46.6,-3.7,250.15597,"CJ1148",NA,"DDA",NA
+"ldlr_serum_apr2022","2023-04","Serum","prenylbenzoquinone isomer","C11H12O2","Posi",177.0901,2.689,NA,NA,72.4,61.8,-4.77,176.08289,"CJ1767",NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","pro asp isomer","C9H14N2O5","Posi",231.09821,2.914,NA,NA,56.7,37.1,2.51,230.09085,"CJ1768",NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","pro thr isomer","C9H16N2O4","Posi",217.1191,7.056,NA,NA,53.2,63,3.7,216.11181,"CJ1771",NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","pyrazole","C3H4N2","Posi",69.04466,3.756,NA,NA,91.3,60.6,-2.97,68.03725,"CJ0496","not detected in both","Sigma","HMDB0256947"
+"ldlr_serum_apr2022","2023-04","Serum","thieno[2,3-d]pyrimidin-4(3H)-one","C6H4N2OS","Nega",150.99805,6.091,NA,NA,53.3,43.6,5.91,152.00533,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","trans-Aconitic acid","C6H6O6","Nega",173.00948,15.043,14.63,0.412999999999998,54.2,43.7,1.82,174.01675,"CJ0569","Nega","Sigma","HMDB0000958"
+"ldlr_serum_apr2022","2023-04","Serum","{(1R,2R)-2-[(2Z)-5-(Hexopyranosyloxy)-2-penten-1-yl]-3-oxocyclopentyl}acetic acid","C18H28O9","Nega",387.16653,2.993,NA,NA,71.7,65.4,1.23,388.17381,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","{3,5-dimethyl-4-[(1-methyl-1H-imidazol-2-yl)thio]-1H-pyrazol-1-yl}(4-methylphenyl)methanone","C17H18N4OS","Posi",349.10958,15.43,NA,NA,71.2,8.6,0.63,326.12034,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","α-Hydroxyhippuric acid","C9H9NO4","Posi",196.05969,7.261,NA,NA,86.1,9.3,-3.36,195.0525,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","α-Methylhistamine","C6H11N3","Posi",126.1023,1.703,NA,NA,60.8,42.7,-2.17,125.09503,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","α-Phthalimidopropiophenone","C17H13NO3","Posi",280.09565,1.092,NA,NA,57.7,45.8,-4.21,279.08837,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","β-Alanine","C3H7NO2","Nega",88.04048,12.002,NA,NA,86.4,9.3,0.93,89.04776,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","β-D-Glucopyranuronic acid","C6H10O7","Nega",193.03536,3.024,NA,NA,50.7,58,-0.1,194.04263,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","β-Muricholic acid","C24H40O5","Nega",407.27988,6.142,NA,NA,89.7,9.5,-1.02,408.28716,NA,NA,NA,NA
+"ldlr_serum_apr2022","2023-04","Serum","δ-Valerolactam","C5H9NO","Posi",100.07506,6.599,NA,NA,69.6,48,-5.44,99.06788,NA,NA,NA,NA
