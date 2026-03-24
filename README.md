@@ -67,7 +67,6 @@ At in the second block **User Inputs**, edit the following fields:
 myname = "Ian"
 mytissue = "Serum"           # e.g., Serum, Liver, Heart, etc.
 seqdate  = "2022-04"         # approx date of sequence as YYYY-MM
-seqname  = "ldlr_serum_apr2022" 
 ```
 
 Update file paths for your CD filenames:
