@@ -34,8 +34,20 @@ my_input/
   ldlr_serum_nega.csv
 ```
 
+  - If your files are .xlsx, convert in R via:
+```r
+install.packages("readxl") #install if needed
+library(readxl)
+
+df <- read_excel("input.xlsx") # read Excel file
+
+write.csv(df, "output.csv", row.names = FALSE) # write to CSV
+```
+
+
 2. Ensure the provided library file is present in the root directory: `metabolites_list_260210.csv`
 
+---
 
 ## ⚙️ Step 3 — Open and Edit the Script
 
@@ -56,6 +68,7 @@ cd_posi_path = "my_input/ldlr_serum_posi.csv"
 cd_nega_path = "my_input/ldlr_serum_nega.csv"
 ```
 
+---
 
 ## Step 4 — Run the Script and Generate Output
 
@@ -64,11 +77,13 @@ In RStudio, run all lines in the script
 The script will generate a file:`myname_tissue_date.csv`
 Example: `Ian_Serum_2023-04.csv.csv`
 
+---
 
 # Step 5 — Submit Your Output
 
 Send the generated .csv file back to Ian
 
+---
 
 ## What This Script Does
 * Extracts annotated compounds from CD output
