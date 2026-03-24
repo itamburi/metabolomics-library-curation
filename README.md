@@ -34,7 +34,7 @@ my_input/
 
 ## ⚙️ Step 3 — Open and Edit the Script
 
-Open the script in **RStudio** (recommended).
+Open the script `01_match_libraries.R` in **RStudio** (recommended).
 
 At the top of the script, edit the following fields:
 
