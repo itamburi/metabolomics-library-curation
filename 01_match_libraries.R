@@ -5,6 +5,22 @@ mycurrentdirectory = dirname(rstudioapi::getActiveDocumentContext()$path)
 setwd(mycurrentdirectory)
 list.files()
 
+# ---------------------------
+# Convert xlsx to csv
+# ---------------------------
+if (!requireNamespace("readxl", quietly = TRUE)) {
+  install.packages("readxl")
+}
+library(readxl)
+
+# Convert positive mode
+df_posi = read_excel("posi_mode.xlsx")
+write.csv(df_posi, "my_input/posi_mode.csv", row.names = FALSE)
+
+# Convert negative mode
+df_nega = read_excel("nega_mode.xlsx")
+write.csv(df_nega, "my_input/nega_mode.csv", row.names = FALSE)
+
 
 # ---------------------------
 # User inputs
@@ -12,10 +28,9 @@ list.files()
 myname = "Ian"
 mytissue = "Serum"           # e.g., Serum, Liver, Heart, etc.
 seqdate  = "2022-04"         # approx date of sequence as YYYY-MM
-seqname  = "ldlr_serum_apr2022" 
 
-cd_posi_path = "my_input/ldlr_serum_posi.csv" # path to positive mode CD export as .csv
-cd_nega_path = "my_input/ldlr_serum_nega.csv" # path to negative mode CD export as .csv
+cd_posi_path = "my_input/posi_mode.csv" # path to positive mode CD export as .csv
+cd_nega_path = "my_input/nega_mode.csv" # path to negative mode CD export as .csv
 library_path = "metabolites_list_260210.csv" # lab metabolite library path
 out_path = paste0(myname,"_",mytissue,"_",seqdate,".csv")
 
@@ -49,8 +64,7 @@ cd_full = bind_rows(cd1, cd2) %>%
     Formula = gsub(" ", "", Formula),
     mzCloud.Best.Match.Confidence = ifelse(is.na(mzCloud.Best.Match.Confidence), 0, mzCloud.Best.Match.Confidence),
     tissue = mytissue,
-    seqdate = seqdate,
-    seqname = seqname
+    seqdate = seqdate
   ) %>%
   filter(
     !is.na(Name), Name != "",
@@ -82,7 +96,7 @@ result = cd_best %>%
     RT.diff = RT.seq - RT.library
   ) %>%
   select(
-    seqname, seqdate, tissue,
+    tissue, seqdate,
     Name, Formula, ion.mode.seq, m.z,
     RT.seq, RT.library, RT.diff,
     mzCloud.Best.Match, mzCloud.Best.Match.Confidence,

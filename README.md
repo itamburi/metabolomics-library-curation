@@ -19,13 +19,31 @@ This script does **NOT update the library**. It only collects evidence from your
 
 Inside the unzipped folder:
 
-1. Check which tissue you have been assigned (below). Then on the Compound Discoverer computer, navigate to `D:\Sunhee\2026 LCMS library` and find your respective tissue files in subfolders `\pos` and `\neg`. Open the results files in CD and export as an xlsx for each ion mode
+1. Check which tissue you have been assigned (below). Then on the Compound Discoverer computer, navigate to `D:\Sunhee\2026 LCMS library` and find your respective tissue files in subfolders `\pos` and `\neg`. Open the results files in CD and export xlsx files for each ion mode
 
 ![](assignments.png)
 
 
-2. Place your Compound Discoverer exports into the `my_input/` folder  
-   - You must export your CD results as **.csv files** (not .xlsx)
+2. Place your xlsx Compound Discoverer exports into the root directory  
+
+3. Open the script `01_match_libraries.R` and run the first block to convert xlsx to csv
+
+```r
+if (!requireNamespace("readxl", quietly = TRUE)) {
+  install.packages("readxl")
+}
+library(readxl)
+
+# Convert positive mode
+df_posi = read_excel("posi_mode.xlsx") #<- change to your filename
+write.csv(df_posi, "my_input/posi_mode.csv", row.names = FALSE)
+
+# Convert negative mode
+df_nega = read_excel("nega_mode.xlsx") #<- change to your filename
+write.csv(df_nega, "my_input/nega_mode.csv", row.names = FALSE)
+```
+
+This will output csv files to the folder `my_input`
 
 Example:
 ```
@@ -34,26 +52,16 @@ my_input/
   ldlr_serum_nega.csv
 ```
 
-  - If your files are .xlsx, convert in R via:
-```r
-install.packages("readxl") #install if needed
-library(readxl)
+4. Ensure the provided library file is present in the root directory: `metabolites_list_260210.csv`
 
-df <- read_excel("input.xlsx") # read Excel file
-
-write.csv(df, "output.csv", row.names = FALSE) # write to CSV
-```
-
-
-2. Ensure the provided library file is present in the root directory: `metabolites_list_260210.csv`
 
 ---
 
-## ⚙️ Step 3 — Open and Edit the Script
+## ⚙️ Step 3 — Edit the inputs
 
 Open the script `01_match_libraries.R` in **RStudio** (recommended).
 
-At the top of the script, edit the following fields:
+At in the second block **User Inputs**, edit the following fields:
 
 ```r
 myname = "Ian"
@@ -64,8 +72,8 @@ seqname  = "ldlr_serum_apr2022"
 
 Update file paths for your CD filenames:
 ```r
-cd_posi_path = "my_input/ldlr_serum_posi.csv"
-cd_nega_path = "my_input/ldlr_serum_nega.csv"
+cd_posi_path = "my_input/posi_mode.csv"
+cd_nega_path = "my_input/nega_mode.csv"
 ```
 
 ---
