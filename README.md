@@ -19,7 +19,7 @@ This script does **NOT update the library**. It only collects evidence from your
 
 Inside the unzipped folder:
 
-1. Check which tissue you have been assigned. Select Compound Discoverer exports from a sequence that you have found reliable (e.g. data that you eventually published are ideal)
+1. Check which tissue you have been assigned (below). Then on the Compound Discoverer computer, navigate to `D:\Sunhee\2026 LCMS library` and find your respective tissue files in subfolders `\pos` and `\neg`. Open the results files in CD and export as an xlsx for each ion mode
 
 ![](assignments.png)
 
