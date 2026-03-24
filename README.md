@@ -19,7 +19,12 @@ This script does **NOT update the library**. It only collects evidence from your
 
 Inside the unzipped folder:
 
-1. Place your Compound Discoverer exports into the `my_input/` folder  
+1. Check which tissue you have been assigned. Select Compound Discoverer exports from a sequence that you have found reliable (e.g. data that you eventually published are ideal)
+
+![](assignments.png)
+
+
+2. Place your Compound Discoverer exports into the `my_input/` folder  
    - You must export your CD results as **.csv files** (not .xlsx)
 
 Example:
